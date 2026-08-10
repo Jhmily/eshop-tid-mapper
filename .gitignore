@@ -1,8 +1,6 @@
-# 缓存 (CI 每次从头拉取)
 .cache/*
 !.cache/enum_dlc_pool.txt
-!.cache/.hk_state.json
+!.cache/.hk_404.json
 
-# Python
 __pycache__/
 *.pyc

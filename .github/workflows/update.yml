@@ -1,4 +1,4 @@
-name: HK TID Update
+name: HK TID Update v2
 
 on:
   schedule:
@@ -25,46 +25,32 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: .cache
-          key: hk-titledb-${{ github.run_id }}
-          restore-keys: hk-titledb-
+          key: hk-v2-${{ github.run_id }}
+          restore-keys: hk-v2-
 
       - name: Keep repo files
-        run: |
-          git checkout .cache/enum_dlc_pool.txt
-          if [ ! -f output/hk_tid_map.json ]; then rm -f .cache/.hk_state.json; fi
+        run: git checkout .cache/enum_dlc_pool.txt
 
-      - name: BASE pipeline
-        run: python hk_pipeline.py
-
-      - name: US data
+      - name: US data (before main)
         run: python us_fetch.py
 
-      - name: DLC enum
-        run: python enum_dlc.py
-
-      - name: DLC crawl (if new)
-        run: |
-          if [ -s .cache/hk_dlc_new.json ] && [ "$(cat .cache/hk_dlc_new.json)" != "[]" ]; then
-            python crawl_dlc.py
-          fi
-
-      - name: Merge
-        run: python merge_dlc.py
+      - name: Main pipeline
+        run: python main.py
 
       - name: Clean cache
-        run: rm -f .cache/raw_full.json .cache/hk_api.json .cache/hk_dlc_new.json
+        run: rm -f .cache/raw_full.json .cache/hk_api.json .cache/hk_dlc_new.json .cache/hk_dlc_meta.json
 
       - name: Save cache
         uses: actions/cache/save@v4
         with:
           path: .cache
-          key: hk-titledb-${{ github.run_id }}
+          key: hk-v2-${{ github.run_id }}
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/ .cache/.hk_state.json .cache/enum_dlc_pool.txt
+          git add output/ .cache/enum_dlc_pool.txt .cache/.hk_404.json
           if git diff --cached --quiet; then
             echo "No changes"
           else
