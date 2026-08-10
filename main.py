@@ -58,13 +58,14 @@ def main(skip_price: bool = False):
 
     # ---- Step 5B ----
     print('[5B] DLC 组装 ...')
-    _assemble_full(matched, dlc, dlc_meta, OUT)
+    _assemble_full(matched, dlc, dlc_meta, OUT / 'hk_full.json', OUT)
     print(f'  hk_full.json: {len(matched)} BASE + DLC')
 
     print(f'完成 ({time.time() - t0:.0f}s)')
 
 
-def _assemble_full(matched: dict, tdb_dlc: dict, dlc_meta: dict, out_dir: Path):
+def _assemble_full(matched: dict, tdb_dlc: dict, dlc_meta: dict,
+                   prev_full_path: Path, out_dir: Path):
     # TID → [NSUIDs] 反向索引
     tid_to_nsuids: dict[str, list[str]] = {}
     for nsuid, entry in matched.items():
@@ -92,6 +93,14 @@ def _assemble_full(matched: dict, tdb_dlc: dict, dlc_meta: dict, out_dir: Path):
         dlc_by_parent.setdefault(parent, []).append([
             nsuid, '暂无', info.get('name', ''),
             _norm_date(info.get('date', ''))])
+
+    # 历史 DLC 保底: 读上次 hk_full.json 的 DLC
+    prev_dlcs = _load_prev_dlcs(prev_full_path)
+    for parent_nsuid, dlc_list in prev_dlcs.items():
+        existing = {d[0] for d in dlc_by_parent.get(parent_nsuid, [])}
+        for d in dlc_list:
+            if d[0] not in existing:
+                dlc_by_parent.setdefault(parent_nsuid, []).append(d)
 
     # 合并
     result: dict = {}
@@ -121,6 +130,24 @@ def _assemble_full(matched: dict, tdb_dlc: dict, dlc_meta: dict, out_dir: Path):
 
     (out_dir / 'hk_full.json').write_text(
         json.dumps(sorted_result, ensure_ascii=False, indent=2), 'utf-8')
+
+
+def _load_prev_dlcs(path: Path) -> dict[str, list]:
+    """读 hk_full.json 提取 DLC 列表 {parent_nsuid: [[nsuid,tid,name,date],...]}。"""
+    if not path.exists():
+        return {}
+    try:
+        prev = json.loads(path.read_text('utf-8'))
+    except (json.JSONDecodeError, OSError):
+        return {}
+    result: dict[str, list] = {}
+    for parent_nsuid, entry in prev.items():
+        if len(entry) > 4 and isinstance(entry[4], dict):
+            for d in entry[4].get('dlcs', []):
+                if len(d) >= 4:
+                    result.setdefault(parent_nsuid, []).append(
+                        [d[0], d[1], d[2], _norm_date(d[3])])
+    return result
 
 
 def _norm_date(d: str) -> str:
