@@ -85,6 +85,7 @@ def _extract(html: str, target_nsuid: str) -> dict | None:
     name_start = last_fm + len(fm)
     name_end = html.find(r'\"', name_start)
     name = html[name_start:name_end] if name_end > 0 else ""
+    name = re.sub(r'\\u([0-9a-fA-F]{4})', lambda m: chr(int(m.group(1), 16)), name)
 
     # 父 BASE: baseApplicationItemNsUid(升级包) 或 targetApplicationItems[0].nsUid(普通DLC)
     parent = ""

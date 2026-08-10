@@ -4,6 +4,7 @@
 import argparse
 import json
 import time
+import http.client
 import urllib.error
 import urllib.request
 from pathlib import Path
@@ -72,7 +73,7 @@ def _fetch(url: str, timeout: int = 15, retries: int = 3) -> dict | None:
                 return json.loads(resp.read())
         except urllib.error.HTTPError as e:
             last_err = e
-        except (urllib.error.URLError, OSError, TimeoutError) as e:
+        except (urllib.error.URLError, OSError, TimeoutError, http.client.IncompleteRead) as e:
             last_err = e
         if attempt < retries:
             time.sleep(attempt * 0.5)
@@ -131,10 +132,8 @@ def _jp_dlc() -> set[int]:
 
     offsets = list(range(200, total, 200))
     if offsets:
-        with ThreadPoolExecutor(max_workers=6) as ex:
-            futures = {ex.submit(_page, o): o for o in offsets}
-            for f in as_completed(futures):
-                page_ids |= f.result()
+        for o in offsets:
+            page_ids |= _page(o)
     return {int(n) for n in page_ids}
 
 
@@ -167,10 +166,8 @@ def _eu_dlc() -> set[int]:
 
     offsets = list(range(1000, total, 1000))
     if offsets:
-        with ThreadPoolExecutor(max_workers=6) as ex:
-            futures = {ex.submit(_page, o): o for o in offsets}
-            for f in as_completed(futures):
-                result |= f.result()
+        for o in offsets:
+            result |= _page(o)
     return result
 
 
@@ -241,10 +238,12 @@ def main():
         new_dlcs = hits
 
     _save_pool(pool)
+    new_file = CACHE / "hk_dlc_new.json"
     if new_dlcs:
-        new_file = CACHE / "hk_dlc_new.json"
         new_file.write_text(json.dumps(sorted(new_dlcs), ensure_ascii=False), "utf-8")
         print(f"  新 DLC: {len(new_dlcs)} -> {new_file}")
+    else:
+        new_file.write_text("[]", "utf-8")
 
     print(f"  完成 ({time.time() - t0:.0f}s)")
 

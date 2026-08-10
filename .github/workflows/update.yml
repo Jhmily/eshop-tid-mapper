@@ -28,8 +28,10 @@ jobs:
           key: hk-titledb-${{ github.run_id }}
           restore-keys: hk-titledb-
 
-      - name: Keep repo pool
-        run: git checkout .cache/enum_dlc_pool.txt
+      - name: Keep repo files
+        run: |
+          git checkout .cache/enum_dlc_pool.txt
+          if [ ! -f output/hk_tid_map.json ]; then rm -f .cache/.hk_state.json; fi
 
       - name: BASE pipeline
         run: python hk_pipeline.py
@@ -48,6 +50,9 @@ jobs:
 
       - name: Merge
         run: python merge_dlc.py
+
+      - name: Clean cache
+        run: rm -f .cache/raw_full.json .cache/hk_api.json .cache/hk_dlc_new.json
 
       - name: Save cache
         uses: actions/cache/save@v4

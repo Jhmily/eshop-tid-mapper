@@ -81,7 +81,7 @@ def _fetch(params: dict) -> dict:
 
 
 def _base_params(bucket: dict) -> dict:
-    params = {'query': ''}
+    params = {'query': 'switch'}
     if bucket['facets']:
         params['facetFilters'] = [[v] for v in bucket['facets']]
     if bucket.get('filters'):
@@ -297,7 +297,7 @@ def main():
         print(f'  [WARN] 仍有 {len(pending)} 桶未拉全 (数据增长过快)')
 
     # 完整性对照
-    baseline = _fetch({'query': '', 'hitsPerPage': 0, 'page': 0}).get('nbHits', 0)
+    baseline = _fetch({'query': 'switch', 'hitsPerPage': 0, 'page': 0}).get('nbHits', 0)
     print(f'基线 nbHits: {baseline}, 抓取: {len(all_hits)}, 缺口: {baseline - len(all_hits)}')
 
     OUT.write_text(json.dumps(list(all_hits.values()), ensure_ascii=False), 'utf-8')

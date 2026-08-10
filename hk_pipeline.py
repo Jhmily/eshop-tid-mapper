@@ -203,6 +203,9 @@ def load_titledb(path: Path) -> dict[str, str]:
     for nsuid_str, entry in data.items():
         tid = entry.get('id', '')
         if isinstance(tid, str) and len(tid) == 16 and tid[-3:] == '000':
+            name = entry.get('name', '') or ''
+            if 'Nintendo Switch 2 Edition' in name:
+                continue
             result[nsuid_str] = tid.upper()
     print(f' {len(result)} BASE')
     return result
@@ -389,6 +392,14 @@ def merge(api_items: list[dict], titledb: dict[str, str],
         else:
             to_scrape.append(nsuid)
 
+    # API 没返回的已有条目保底 + titledb 独有条目入库(排除NS2E)
+    for nsuid in existing_map:
+        if nsuid not in matched:
+            matched[nsuid] = existing_map[nsuid][0]
+    for nsuid, tid in titledb.items():
+        if nsuid.startswith('7001') and nsuid not in matched:
+            matched[nsuid] = tid
+
     return matched, to_scrape, unmatched
 
 # ============================================================
@@ -464,9 +475,24 @@ def build_and_save_output(api_items: list[dict], matched: dict[str, str],
         rd = api_index.get(nsuid, {}).get('release_date', '')
         return (rd or '9999-99-99', int(nsuid))
 
+    # titledb 元数据补充: API 没返回的条目从 titledb 拿
+    tdb_meta = {}
+    tdb_path = CACHE / 'HK.zh.json'
+    if tdb_path.exists():
+        with open(tdb_path, encoding='utf-8') as f:
+            for k, v in json.load(f).items():
+                tid = v.get('id', '')
+                if not isinstance(tid, str) or len(tid) != 16 or tid[-3:] != '000':
+                    continue
+                tdb_meta[k] = {
+                    'name': v.get('name', ''),
+                    'release_date': str(v.get('releaseDate', '')),
+                    'languages': ', '.join(v.get('languages', []))
+                }
+
     result = {}
     for nsuid, tid in sorted(all_tids.items(), key=_sort_key):
-        info = api_index.get(nsuid, {})
+        info = api_index.get(nsuid) or tdb_meta.get(nsuid, {})
         result[nsuid] = [tid, info.get('name', ''),
                          info.get('release_date', ''), info.get('languages', '')]
 
