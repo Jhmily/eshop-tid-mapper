@@ -40271,7 +40271,7 @@
     "0100F8600E21E000",
     "《鬥陣特攻®》",
     "2022-10-05",
-    "Russian, Korean, Japanese, Italian, Portuguese, English, French, Spanish, German",
+    "Russian, French, Korean, Portuguese, German, English, Japanese, Italian, Spanish",
     {
       "dlcs": [
         [
@@ -63445,6 +63445,12 @@
           "暂无",
           "盒子包",
           "2026-07-16"
+        ],
+        [
+          "70050000077570",
+          "暂无",
+          "貓們包",
+          "2026-08-12"
         ]
       ]
     }
@@ -91611,6 +91617,12 @@
           "暂无",
           "阿月渾子房間",
           "2026-07-16"
+        ],
+        [
+          "70050000077673",
+          "暂无",
+          "棉花糖房間",
+          "2026-08-12"
         ]
       ]
     }
@@ -116148,6 +116160,12 @@
     "Legacy: Witch Island 2",
     "2026-08-06",
     "English"
+  ],
+  "70010000125231": [
+    "010074402766A000",
+    "Sacred 2 Remaster - FALLEN ANGEL",
+    "2026-08-11",
+    "English, French, German, Italian, Spanish"
   ],
   "70010000113441": [
     "0100852026502000",
