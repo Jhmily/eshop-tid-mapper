@@ -110639,7 +110639,17 @@
     "0100222026BF0000",
     "Solo Shift!",
     "2026-05-14",
-    "English, Japanese"
+    "English, Japanese",
+    {
+      "dlcs": [
+        [
+          "70050000077813",
+          "暂无",
+          "Late Night Solo Shift Pack",
+          "2026-08-14"
+        ]
+      ]
+    }
   ],
   "70010000117493": [
     "010064A027068000",
@@ -116912,6 +116922,12 @@
     "GIRAFFE RAISING GAME ~Reach for the sky~",
     "2026-08-27",
     "English, Japanese"
+  ],
+  "70010000133447": [
+    "0100EB402989C000",
+    "柏拉圖深空（PLATONICA SPACE）",
+    "2026-08-27",
+    "English, Japanese, Simplified Chinese, Traditional Chinese"
   ],
   "70010000097555": [
     "0400F5802371E000",
