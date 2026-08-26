@@ -5283,7 +5283,7 @@
     "0100E67012924000",
     "《巫師 3：狂獵》",
     "2021-01-28",
-    "Korean, Italian, Simplified Chinese, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish"
+    "English, Portuguese, Spanish, French, German, Italian, Russian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000033521": [
     "0100EC5012BDE000",
@@ -60305,6 +60305,18 @@
     "2026-08-25",
     "English, German"
   ],
+  "70010000122972": [
+    "0400077027D24000",
+    "Console Archives BUBBLE BOBBLE",
+    "2026-08-26",
+    "English, French, German, Italian, Japanese, Spanish"
+  ],
+  "70010000126629": [
+    "01000570268FC000",
+    "地牢大出血",
+    "2026-08-26",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
   "70010000070277": [
     "010089601C4F6000",
     "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version",
@@ -60730,6 +60742,12 @@
     "Garfield - Escape From Monday",
     "2026-09-24",
     "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000128695": [
+    "040012F028BC2000",
+    "巫師3：狂獵 — 重製版",
+    "2026-09-29",
+    "English, French, German, Italian, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000108546": [
     "04001CD025B68000",
