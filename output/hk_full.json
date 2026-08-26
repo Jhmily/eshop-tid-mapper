@@ -58553,6 +58553,12 @@
           "暂无",
           "夜色微醺",
           "2026-04-30"
+        ],
+        [
+          "70050000079648",
+          "暂无",
+          "奇蹟馬戲團",
+          "2026-08-26"
         ]
       ]
     }
@@ -87681,7 +87687,17 @@
     "0100D1E01FB56000",
     "Pipistrello and the Cursed Yoyo",
     "2025-05-29",
-    "English, French, German, Italian, Japanese, Portuguese, Spanish"
+    "English, French, German, Italian, Japanese, Portuguese, Spanish",
+    {
+      "dlcs": [
+        [
+          "70050000079237",
+          "暂无",
+          "Pipistrello and the Cursed Yoyo - Nintendo Switch 2 Edition升級通行證",
+          "2026-08-27"
+        ]
+      ]
+    }
   ],
   "70010000085834": [
     "01002610204F2000",
@@ -93129,6 +93145,12 @@
           "暂无",
           "Escape the Backrooms BODYCAM: Night Ops",
           "2026-07-16"
+        ],
+        [
+          "70050000079203",
+          "暂无",
+          "Escape the Backrooms BODYCAM: Armed Survivor",
+          "2026-08-27"
         ]
       ]
     }
@@ -95729,6 +95751,12 @@
           "暂无",
           "CONTRABAND BORDER POLICE SIMULATOR: New Skybox",
           "2026-03-26"
+        ],
+        [
+          "70050000079334",
+          "暂无",
+          "CONTRABAND BORDER POLICE SIMULATOR: Elite Knife",
+          "2026-08-27"
         ]
       ]
     }
@@ -97153,7 +97181,17 @@
     "01001F10243E0000",
     "Chained Up Together",
     "2025-10-02",
-    "English"
+    "English",
+    {
+      "dlcs": [
+        [
+          "70050000078907",
+          "暂无",
+          "Chained Up Together: Mystic Dragon",
+          "2026-08-27"
+        ]
+      ]
+    }
   ],
   "70010000102077": [
     "010027C0248BC000",
@@ -97481,7 +97519,17 @@
     "0100F1F024D12000",
     "Survival Zombie",
     "2025-10-09",
-    "English"
+    "English",
+    {
+      "dlcs": [
+        [
+          "70050000078909",
+          "暂无",
+          "Survival Zombie: Safe Haven",
+          "2026-08-27"
+        ]
+      ]
+    }
   ],
   "70010000103720": [
     "010046A024DCE000",
@@ -99577,7 +99625,17 @@
     "01004AE02553E000",
     "Baseball Card Shop Simulator",
     "2025-11-06",
-    "English"
+    "English",
+    {
+      "dlcs": [
+        [
+          "70050000079217",
+          "暂无",
+          "Baseball Card Shop Simulator: Retail Boost",
+          "2026-08-27"
+        ]
+      ]
+    }
   ],
   "70010000106427": [
     "010051202568E000",
@@ -101271,7 +101329,17 @@
     "01000820250E2000",
     "Toy Cowboy Royale : RPG Dragon's Challenge",
     "2025-12-04",
-    "English"
+    "English",
+    {
+      "dlcs": [
+        [
+          "70050000079169",
+          "暂无",
+          "Toy Cowboy Royale : RPG Dragon’s Challenge – New Arsenal",
+          "2026-08-27"
+        ]
+      ]
+    }
   ],
   "70010000104826": [
     "0100A9B025128000",
@@ -101713,7 +101781,17 @@
     "010041E0256EE000",
     "Pharmacy Store Simulator",
     "2025-12-11",
-    "English"
+    "English",
+    {
+      "dlcs": [
+        [
+          "70050000079642",
+          "暂无",
+          "Pharmacy Store Simulator: Shop Style",
+          "2026-08-27"
+        ]
+      ]
+    }
   ],
   "70010000107266": [
     "0100C0F0214AA000",
@@ -102039,7 +102117,17 @@
     "010011B023B44000",
     "Auto Sport Racing Simulator",
     "2025-12-18",
-    "English"
+    "English",
+    {
+      "dlcs": [
+        [
+          "70050000079299",
+          "暂无",
+          "Auto Sport Racing Simulator – R34 Legends Pack",
+          "2026-08-27"
+        ]
+      ]
+    }
   ],
   "70010000099164": [
     "010069701AAB0000",
@@ -103403,7 +103491,17 @@
     "0100879025156000",
     "Construction Sim: City and Road Builder",
     "2026-01-08",
-    "English"
+    "English",
+    {
+      "dlcs": [
+        [
+          "70050000079325",
+          "暂无",
+          "Construction Sim: City and Road Builder - Business Boost",
+          "2026-08-27"
+        ]
+      ]
+    }
   ],
   "70010000106135": [
     "010062102554A000",
@@ -106123,6 +106221,12 @@
           "暂无",
           "Dinosaur Survival Simulator - Prehistoric RPG: Hunter Balance",
           "2026-06-04"
+        ],
+        [
+          "70050000079350",
+          "暂无",
+          "Dinosaur Survival Simulator - Prehistoric RPG: Jurassic Style",
+          "2026-08-27"
         ]
       ]
     }
