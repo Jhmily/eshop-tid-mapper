@@ -60311,6 +60311,12 @@
     "2026-08-26",
     "English, French, German, Italian, Japanese, Spanish"
   ],
+  "70010000123414": [
+    "04000F4027E30000",
+    "Model Debut4",
+    "2026-08-26",
+    "English, French, Japanese"
+  ],
   "70010000126629": [
     "01000570268FC000",
     "地牢大出血",
@@ -60347,6 +60353,18 @@
     "2026-08-27",
     "English, French, German, Italian, Japanese, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000099157": [
+    "04006D1023DB6000",
+    "熔爐密林 （Rotwood)",
+    "2026-08-27",
+    "English, French, German, Italian, Japanese, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000104671": [
+    "01002F70250B6000",
+    "少女死神養成計畫 (Grim Trials)",
+    "2026-08-27",
+    "English, French, German, Italian, Japanese, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
   "70010000107222": [
     "0400DF60259F6000",
     "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version",
@@ -60365,6 +60383,12 @@
     "2026-08-27",
     "English, French, German, Italian, Spanish"
   ],
+  "70010000109737": [
+    "01000AE025C60000",
+    "Word Quest Nature",
+    "2026-08-27",
+    "English"
+  ],
   "70010000113638": [
     "01009720213B0000",
     "隊長小翼2 世界群星",
@@ -60377,11 +60401,29 @@
     "2026-08-27",
     "English, Japanese"
   ],
+  "70010000117445": [
+    "010035B027028000",
+    "山河旅探",
+    "2026-08-27",
+    "English, Japanese, Simplified Chinese, Traditional Chinese"
+  ],
   "70010000117568": [
     "0100644024CEC000",
     "逃脫遊戲 R00M 06",
     "2026-08-27",
     "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000118414": [
+    "0100BA80272D0000",
+    "關於我在夢中談戀愛後現實世界三人的命運也跟著動起來這檔事(Because It's a Dream, It Must Be Romance: Connecting Hearts Across Realities)",
+    "2026-08-27",
+    "English, French, German, Japanese, Korean, Portuguese, Russian, Spanish, Traditional Chinese"
+  ],
+  "70010000118477": [
+    "040007C026F72000",
+    "NOSTALGIC TRAIN",
+    "2026-08-27",
+    "English, French, German, Italian, Japanese, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000119012": [
     "0100DF202742C000",
@@ -60394,6 +60436,12 @@
     "韓國無人機飛行遊覽百濟軍事博物館",
     "2026-08-27",
     "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000121285": [
+    "010022C0278FA000",
+    "Chained Climb Together: Local Co-OP",
+    "2026-08-27",
+    "English"
   ],
   "70010000121568": [
     "01004150279B8000",
@@ -60431,11 +60479,23 @@
     "2026-08-27",
     "English, French, German, Italian, Japanese, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000124370": [
+    "01007DD0280B2000",
+    "Arcade Archives SATAN OF SATURN",
+    "2026-08-27",
+    "English, French, German, Italian, Japanese, Spanish"
+  ],
   "70010000124432": [
     "0100FCF0280DA000",
     "Tearscape",
     "2026-08-27",
     "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000125168": [
+    "0100E35028324000",
+    "Astronaut Simulator",
+    "2026-08-27",
+    "English"
   ],
   "70010000125716": [
     "01006800284E8000",
@@ -60443,17 +60503,53 @@
     "2026-08-27",
     "English, French, German, Japanese, Portuguese, Spanish"
   ],
+  "70010000125879": [
+    "010082302857A000",
+    "Lethal Corporation",
+    "2026-08-27",
+    "English"
+  ],
+  "70010000126323": [
+    "040027D028688000",
+    "Mind Diver / 潛意者 ",
+    "2026-08-27",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000126572": [
+    "0100866028770000",
+    "Néro & Sci ∫ Integral Edition",
+    "2026-08-27",
+    "English, French, German, Japanese, Korean, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000127041": [
+    "0100E6D02887C000",
+    "Art of Drift – Cozy Drift Simulator",
+    "2026-08-27",
+    "English"
+  ],
   "70010000127047": [
     "010087E02887E000",
     "Monst",
     "2026-08-27",
     "English, French, Japanese, Korean, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000127327": [
+    "0100C600288E8000",
+    "Puzzle Girls: Dark Temptation",
+    "2026-08-27",
+    "English, Japanese, Russian"
+  ],
   "70010000127762": [
     "010040F01EC60000",
     "Aggelos 2",
     "2026-08-27",
     "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000129623": [
+    "010077A028DE6000",
+    "Emergency Rush",
+    "2026-08-27",
+    "English"
   ],
   "70010000130239": [
     "0100517028F8A000",
@@ -60467,17 +60563,95 @@
     "2026-08-27",
     "Japanese, Simplified Chinese, Traditional Chinese"
   ],
+  "70010000131358": [
+    "040081A0292C2000",
+    "地城探險(Quest of Dungeons)",
+    "2026-08-27",
+    "English, French, German, Japanese, Portuguese, Spanish"
+  ],
+  "70010000131515": [
+    "01007FB02933E000",
+    "Scary Stories Grotesque",
+    "2026-08-27",
+    "English, Japanese, Korean"
+  ],
+  "70010000131686": [
+    "01002DE02938C000",
+    "Hololive Fantasy Battle",
+    "2026-08-27",
+    "English, Japanese, Traditional Chinese"
+  ],
+  "70010000131853": [
+    "01002CE0293E8000",
+    "Roots in the Sky - The Hand of Glory 2",
+    "2026-08-27",
+    "English, German, Italian"
+  ],
+  "70010000131884": [
+    "0100400029426000",
+    "Project City",
+    "2026-08-27",
+    "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000131940": [
+    "0100C980293A2000",
+    "復古機器人：2085",
+    "2026-08-27",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
   "70010000132132": [
     "0100BD70294E0000",
     "咒物封印 找出並封印禍源",
     "2026-08-27",
     "English, Japanese, Korean, Traditional Chinese"
   ],
+  "70010000132144": [
+    "0100F14029310000",
+    "Mahjongus: The Warlock Within",
+    "2026-08-27",
+    "Dutch, English, French, German, Italian, Portuguese, Russian, Spanish"
+  ],
+  "70010000132478": [
+    "0100A7C0295D6000",
+    "Threshold Warden",
+    "2026-08-27",
+    "English, French, German, Italian, Japanese, Portuguese, Russian, Spanish"
+  ],
+  "70010000132693": [
+    "0100F1302967C000",
+    "Hidden Girls: Quiet Beauty",
+    "2026-08-27",
+    "English, Japanese, Russian"
+  ],
+  "70010000132767": [
+    "01009680296C0000",
+    "Real Girls: Burning Whisper",
+    "2026-08-27",
+    "English, Japanese, Russian"
+  ],
+  "70010000132965": [
+    "0100D5D029712000",
+    "Smash Cat",
+    "2026-08-27",
+    "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000133003": [
+    "01002840271CC000",
+    "疊疊樂公國 - 完整版",
+    "2026-08-27",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
   "70010000133018": [
     "01006B702972A000",
     "GIRAFFE RAISING GAME ~Reach for the sky~",
     "2026-08-27",
     "English, Japanese"
+  ],
+  "70010000133362": [
+    "0100F1402987C000",
+    "Escape Room: The Secret Portal Puzzle",
+    "2026-08-27",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Traditional Chinese"
   ],
   "70010000133427": [
     "01006D10282E6000",
@@ -60494,6 +60668,24 @@
   "70010000133557": [
     "0100ADA0297F2000",
     "阿萊瑟里昂的地下城 （Dungeons of Alethrion)",
+    "2026-08-27",
+    "English"
+  ],
+  "70010000133932": [
+    "01001B20299EC000",
+    "School Sweets Discovery ～granulated sugar edition～",
+    "2026-08-27",
+    "English, Japanese"
+  ],
+  "70010000134097": [
+    "0100FA1029A54000",
+    "Astrava",
+    "2026-08-27",
+    "English"
+  ],
+  "70010000134223": [
+    "0100FCF029A8C000",
+    "Cozy Farm Defense",
     "2026-08-27",
     "English"
   ],
@@ -60563,6 +60755,12 @@
     "2026-09-03",
     "English, Japanese, Korean, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000126846": [
+    "0100E88028804000",
+    "Paper Airplane Flying Game",
+    "2026-09-03",
+    "English"
+  ],
   "70010000127989": [
     "01003B2028A1C000",
     "Veiled Edge",
@@ -60581,11 +60779,71 @@
     "2026-09-03",
     "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000130152": [
+    "0100ACF028F4A000",
+    "IQ邏輯密碼：數字與字母推理謎題",
+    "2026-09-03",
+    "English, Japanese, Korean, Traditional Chinese"
+  ],
+  "70010000130924": [
+    "0100FAA0291BE000",
+    "霓虹辣妹：泳池寫真拼圖",
+    "2026-09-03",
+    "English, Japanese, Korean, Traditional Chinese"
+  ],
+  "70010000131481": [
+    "01003B9029320000",
+    "幻獸16型人格測驗",
+    "2026-09-03",
+    "English, Japanese, Korean, Traditional Chinese"
+  ],
+  "70010000131599": [
+    "010003402936C000",
+    "Drones Attack",
+    "2026-09-03",
+    "English"
+  ],
+  "70010000131651": [
+    "010046D029388000",
+    "小學階段最好能記住的英文單字",
+    "2026-09-03",
+    "Japanese, Korean, Spanish, Traditional Chinese"
+  ],
+  "70010000132206": [
+    "010084302951A000",
+    "隱藏照片推理：看懂真相後更恐怖",
+    "2026-09-03",
+    "English, Korean, Traditional Chinese"
+  ],
+  "70010000133085": [
+    "01004C5029754000",
+    "夢幻美女：心動插畫拼圖",
+    "2026-09-03",
+    "English, Japanese, Korean, Traditional Chinese"
+  ],
+  "70010000134029": [
+    "0100974029A3C000",
+    "Horse Spirit Valley",
+    "2026-09-03",
+    "English, French, Italian"
+  ],
   "70010000134145": [
     "0100265029A66000",
     "Horse Spirit Valley 2",
     "2026-09-03",
     "English"
+  ],
+  "70010000134309": [
+    "0100135024AAA000",
+    "相當木奉王求 Re: Return of KUSOGAKI",
+    "2026-09-03",
+    "English, Japanese, Korean, Simplified Chinese, Traditional Chinese"
+  ],
+  "70010000134365": [
+    "0100940029AFA000",
+    "溫泉美女與 旅館約會 記憶",
+    "2026-09-03",
+    "English, Japanese, Korean, Traditional Chinese"
   ],
   "70010000112823": [
     "0400D940263CC000",
@@ -60599,6 +60857,12 @@
     "2026-09-10",
     "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000105950": [
+    "010012E0253A6000",
+    "逃脫遊戲 R00M 07",
+    "2026-09-10",
+    "Dutch, English, French, German, Italian, Japanese, Portuguese, Russian, Spanish"
+  ],
   "70010000110300": [
     "0100622020F5A000",
     "發條兔子 (Clockwork Rabbit)",
@@ -60611,11 +60875,47 @@
     "2026-09-10",
     "English, French, German, Italian, Japanese, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000125066": [
+    "0100DF90282A0000",
+    "Lamp Clicker",
+    "2026-09-10",
+    "English"
+  ],
+  "70010000126133": [
+    "0100239028616000",
+    "One-inch Tactics",
+    "2026-09-10",
+    "English, Japanese, Korean, Simplified Chinese, Traditional Chinese"
+  ],
   "70010000126860": [
     "010063302712A000",
     "永泉傳說 FOUNTAINS",
     "2026-09-10",
     "English, French, German, Japanese, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000128549": [
+    "01003D3028B66000",
+    "Train Plus Japan Drive Western Japan Trains! Rapid Service Edition",
+    "2026-09-10",
+    "English, Japanese"
+  ],
+  "70010000129227": [
+    "01008C8028CE0000",
+    "錯誤404：失蹤的動漫少女 (Bug Error 404: Anime Girls Not Found)",
+    "2026-09-10",
+    "English, Japanese, Korean, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000129246": [
+    "0100EB9028CE4000",
+    "錯誤404：消失的動漫男孩 (Bug Error 404: Anime Boys Not Found)",
+    "2026-09-10",
+    "English, Japanese, Korean, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000131533": [
+    "01005AE02934C000",
+    "Super Takoyaki Battle",
+    "2026-09-10",
+    "English, Japanese"
   ],
   "70010000132400": [
     "010081E029588000",
@@ -60659,11 +60959,29 @@
     "2026-09-17",
     "English, French, German, Italian, Japanese, Korean, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000110992": [
+    "040067A025F2C000",
+    "Granblue Fantasy Versus: Rising Legendary Edition",
+    "2026-09-17",
+    "English, French, German, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
   "70010000111688": [
     "0100A5F02610E000",
     "Au Revoir (永生公司)",
     "2026-09-17",
     "English, French, German, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000114919": [
+    "0100C66026536000",
+    "AKIBA LOST (秋葉原迷蹤)",
+    "2026-09-17",
+    "English, Japanese, Korean, Simplified Chinese, Traditional Chinese"
+  ],
+  "70010000114925": [
+    "040060C0265DE000",
+    "AKIBA LOST (秋葉原迷蹤)",
+    "2026-09-17",
+    "English, Japanese, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000122902": [
     "01008A6027CE8000",
@@ -60713,6 +61031,12 @@
     "2026-09-24",
     "English, French, German, Italian, Korean, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000111987": [
+    "010078C026196000",
+    "OVER REQUIEMZ 奧茲國安魂曲",
+    "2026-09-24",
+    "Traditional Chinese"
+  ],
   "70010000115234": [
     "04008D30269A4000",
     "SHINOBI 反攻的斬擊",
@@ -60724,6 +61048,12 @@
     "Farming Camp",
     "2026-09-24",
     "English, French, German, Italian, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000115751": [
+    "010016A026B64000",
+    "時鐘機關的Leyline-於蜃景中彷徨的魔女-",
+    "2026-09-24",
+    "Traditional Chinese"
   ],
   "70010000116098": [
     "0100BEC026C10000",
@@ -60743,6 +61073,30 @@
     "2026-09-24",
     "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000121704": [
+    "0100CC6027A12000",
+    "Nocturne for Cyl-Hestia",
+    "2026-09-24",
+    "English, French"
+  ],
+  "70010000130350": [
+    "0100B3B029010000",
+    "吞食咔寶",
+    "2026-09-24",
+    "Japanese, Korean, Traditional Chinese"
+  ],
+  "70010000130354": [
+    "0400032029014000",
+    "吞食咔寶",
+    "2026-09-24",
+    "Japanese, Korean, Traditional Chinese"
+  ],
+  "70010000133403": [
+    "0100217023F6C000",
+    "黯井微光 (Well Dweller)",
+    "2026-09-24",
+    "English, French, German, Japanese, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
   "70010000128695": [
     "040012F028BC2000",
     "巫師3：狂獵 — 重製版",
@@ -60760,6 +61114,12 @@
     "歧路旅人II OCTOPATH TRAVELER II",
     "2026-10-01",
     "English, French, German, Italian, Japanese, Korean, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000119986": [
+    "01007A7027610000",
+    "Muchi Muchi Pork! & PinkSweets Boosted",
+    "2026-10-01",
+    "Japanese, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000130719": [
     "010054102913C000",
@@ -60784,6 +61144,12 @@
     "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
     "2026-10-08",
     "Japanese"
+  ],
+  "70010000099842": [
+    "01006A802405A000",
+    "偶像傳奇！閃耀再臨",
+    "2026-10-08",
+    "English, Japanese, Simplified Chinese, Traditional Chinese"
   ],
   "70010000117239": [
     "0400002022966000",
@@ -60892,5 +61258,11 @@
     "Marupoyo：圓滾滾小雞的冒險 (Marupoyo: The Round Chick's Adventure)",
     "2026-11-26",
     "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000080764": [
+    "01003F501F012000",
+    "亞路塔：狐狸狐途的麵包冒險",
+    "2026-12-09",
+    "English, Japanese, Korean, Simplified Chinese, Traditional Chinese"
   ]
 }
