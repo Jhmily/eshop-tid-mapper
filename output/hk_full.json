@@ -113257,7 +113257,17 @@
     "0100DC00283D2000",
     "塗色大師 : 像素夢想家 迷你圖案 (Pixel Cross Stitch Color by Number: Miniatures)",
     "2026-06-18",
-    "English, Japanese, Korean, Russian, Simplified Chinese, Traditional Chinese"
+    "English, Japanese, Korean, Russian, Simplified Chinese, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000078860",
+          "暂无",
+          "塗色大師 : 像素夢想家 迷你圖案 - 花 2 (Pixel Cross Stitch Color by Number: Miniatures - Flowers 2)",
+          "2026-08-29"
+        ]
+      ]
+    }
   ],
   "70010000125436": [
     "0100F1C0283FC000",
