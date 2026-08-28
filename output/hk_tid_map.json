@@ -60573,7 +60573,7 @@
     "01007FB02933E000",
     "Scary Stories Grotesque",
     "2026-08-27",
-    "English, Japanese, Korean"
+    "English, Japanese, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000131686": [
     "01002DE02938C000",
@@ -60851,6 +60851,18 @@
     "2026-09-04",
     "English, Japanese, Spanish, French, Simplified Chinese, Traditional Chinese, German, Korean, Italian, Portuguese, Russian"
   ],
+  "70010000126706": [
+    "040036C0287C2000",
+    "BioEden",
+    "2026-09-04",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000126824": [
+    "0100AB00287FC000",
+    "Asdivine Knot",
+    "2026-09-04",
+    "English, Japanese"
+  ],
   "70010000054199": [
     "0100CA6018676000",
     "KUBO 3",
@@ -60951,7 +60963,7 @@
     "01001060238B2000",
     "Flamecraft (龍焰魔法鎮)",
     "2026-09-17",
-    "English"
+    "English, Traditional Chinese, Simplified Chinese, Japanese, Korean, French, German, Spanish, Portuguese, Russian"
   ],
   "70010000110145": [
     "0100E1C0252F8000",
