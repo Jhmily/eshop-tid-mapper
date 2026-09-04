@@ -1615,13 +1615,13 @@
     "0100AC000ABE0000",
     "Dungeon Rushers",
     "2018-08-30",
-    "Japanese, Korean, Italian, Simplified Chinese, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian, Portuguese, Russian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000009847": [
     "01008FA00ACEC000",
     "RADIOHAMMER STATION",
     "2018-08-30",
-    "Japanese, Korean, Simplified Chinese, English, Traditional Chinese"
+    "Japanese, English, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000011605": [
     "01009B400B73A000",
@@ -1639,7 +1639,7 @@
     "01002B3008500000",
     "方塊創造者X",
     "2018-08-30",
-    "Japanese, Korean, Simplified Chinese, English, Traditional Chinese"
+    "Japanese, English, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000013830": [
     "010001B005E5C000",
@@ -117093,6 +117093,12 @@
           "暂无",
           "《星砂島》 「呱呱假日」DLC",
           "2026-08-18"
+        ],
+        [
+          "70050000077292",
+          "暂无",
+          "《星砂島》「閃耀之星」服裝套裝",
+          "2026-09-03"
         ]
       ]
     }
@@ -117218,37 +117224,37 @@
       "dlcs": [
         [
           "70050000076466",
-          "暂无",
+          "01007390285AF00B",
           "卡拉OK歌曲「eYe♡tracker」",
           "2026-09-03"
         ],
         [
           "70050000076468",
-          "暂无",
+          "01007390285AF002",
           "服裝「啦啦隊兔女郎」",
           "2026-09-03"
         ],
         [
           "70050000076999",
-          "暂无",
+          "01007390285AF003",
           "服裝「服務兔女郎」",
           "2026-09-03"
         ],
         [
           "70050000077000",
-          "暂无",
+          "01007390285AF004",
           "服裝「喵魘貓」",
           "2026-09-03"
         ],
         [
           "70050000077001",
-          "暂无",
+          "01007390285AF005",
           "服裝「中華兔女郎」",
           "2026-09-03"
         ],
         [
           "70050000077003",
-          "暂无",
+          "01007390285AF007",
           "服裝「惡魔萌虎」",
           "2026-09-03"
         ]
@@ -117930,13 +117936,13 @@
       "dlcs": [
         [
           "70050000078749",
-          "暂无",
+          "0100D8F0281B7001",
           "EXSTETRA - DLC 符文石套裝",
           "2026-09-02"
         ],
         [
           "70050000078750",
-          "暂无",
+          "0100D8F0281B7002",
           "EXSTETRA - DLC 道具套裝",
           "2026-09-02"
         ]
@@ -118194,8 +118200,8 @@
       "dlcs": [
         [
           "70050000076774",
-          "暂无",
-          "No More Slimes!! - \\\\",
+          "01003D40293D7001",
+          "No More Slimes!! - \"Catgirl Survivor\" 角色解鎖！【Akane】【Koro】",
           "2026-09-03"
         ]
       ]
@@ -118431,6 +118437,12 @@
           "2026-09-04"
         ],
         [
+          "70050000067749",
+          "暂无",
+          "鬼武者 Way of the Sword 材料箱「紅魂·壹」",
+          "2026-09-04"
+        ],
+        [
           "70050000067762",
           "暂无",
           "鬼武者 Way of the Sword「遊戲用迷你數位原聲帶」",
@@ -118445,6 +118457,12 @@
       ]
     }
   ],
+  "70010000116956": [
+    "040090C026ED0000",
+    "《NBA 2K27》",
+    "2026-09-04",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
   "70010000126706": [
     "040036C0287C2000",
     "BioEden",
@@ -118456,6 +118474,28 @@
     "Asdivine Knot",
     "2026-09-04",
     "English, Japanese"
+  ],
+  "70010000135622": [
+    "01004BB027446000",
+    "堡壘合併",
+    "2026-09-04",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000080511",
+          "暂无",
+          "堡壘合併:Claire禮包",
+          "2026-09-04"
+        ]
+      ]
+    }
+  ],
+  "70010000098092": [
+    "04003170238F0000",
+    "Valheim",
+    "2026-09-09",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000054199": [
     "0100CA6018676000",
@@ -118658,13 +118698,13 @@
       "dlcs": [
         [
           "70050000080148",
-          "暂无",
+          "0100B7102999B001",
           "Before Exit: Gas Station - Midnight DLC",
           "2026-09-10"
         ],
         [
           "70050000080149",
-          "暂无",
+          "0100B7102999B002",
           "Before Exit: Gas Station - Daylight DLC",
           "2026-09-10"
         ]
@@ -118774,6 +118814,12 @@
         ]
       ]
     }
+  ],
+  "70010000125003": [
+    "0400691028286000",
+    "雙點醫院：健康滿載合集 (Two Point Hospital: Full Health Collection)",
+    "2026-09-16",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000078210": [
     "010049E01E5B2000",

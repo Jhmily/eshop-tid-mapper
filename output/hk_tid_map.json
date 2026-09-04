@@ -369,13 +369,13 @@
     "0100AC000ABE0000",
     "Dungeon Rushers",
     "2018-08-30",
-    "Japanese, Korean, Italian, Simplified Chinese, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian, Portuguese, Russian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000009847": [
     "01008FA00ACEC000",
     "RADIOHAMMER STATION",
     "2018-08-30",
-    "Japanese, Korean, Simplified Chinese, English, Traditional Chinese"
+    "Japanese, English, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000011605": [
     "01009B400B73A000",
@@ -393,7 +393,7 @@
     "01002B3008500000",
     "方塊創造者X",
     "2018-08-30",
-    "Japanese, Korean, Simplified Chinese, English, Traditional Chinese"
+    "Japanese, English, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000013830": [
     "010001B005E5C000",
@@ -61037,6 +61037,12 @@
     "2026-09-04",
     "English, Japanese, Spanish, French, Simplified Chinese, Traditional Chinese, German, Korean, Italian, Portuguese, Russian"
   ],
+  "70010000116956": [
+    "040090C026ED0000",
+    "《NBA 2K27》",
+    "2026-09-04",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
   "70010000126706": [
     "040036C0287C2000",
     "BioEden",
@@ -61048,6 +61054,18 @@
     "Asdivine Knot",
     "2026-09-04",
     "English, Japanese"
+  ],
+  "70010000135622": [
+    "01004BB027446000",
+    "堡壘合併",
+    "2026-09-04",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000098092": [
+    "04003170238F0000",
+    "Valheim",
+    "2026-09-09",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000054199": [
     "0100CA6018676000",
@@ -61330,6 +61348,12 @@
     "木木屋 (Woodo)",
     "2026-09-16",
     "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000125003": [
+    "0400691028286000",
+    "雙點醫院：健康滿載合集 (Two Point Hospital: Full Health Collection)",
+    "2026-09-16",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000078210": [
     "010049E01E5B2000",
