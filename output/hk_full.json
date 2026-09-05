@@ -88657,6 +88657,18 @@
           "暂无",
           "HITMAN World of Assassination - World Champions Pack",
           "2026-06-08"
+        ],
+        [
+          "70050000077771",
+          "暂无",
+          "HITMAN World of Assassination - The Herbalist Pack",
+          "2026-09-04"
+        ],
+        [
+          "70050000077773",
+          "暂无",
+          "HITMAN World of Assassination - The Getaway Pack",
+          "2026-09-04"
         ]
       ]
     }
@@ -89317,6 +89329,12 @@
           "暂无",
           "塗色大師：像素夢想家 簡單的圖案2 (Pixel Cross Stitch Color by Number: Simple Patterns 2)",
           "2026-06-29"
+        ],
+        [
+          "70050000079934",
+          "暂无",
+          "塗色大師：像素夢想家: 神話怪物 (Pixel Cross Stitch Color by Number: Mythical Monsters)",
+          "2026-09-05"
         ]
       ]
     }
@@ -118473,7 +118491,35 @@
     "0100AB00287FC000",
     "Asdivine Knot",
     "2026-09-04",
-    "English, Japanese"
+    "English, Japanese",
+    {
+      "dlcs": [
+        [
+          "70050000079396",
+          "0100AB00287FD001",
+          "Experience x3 - Asdivine Knot",
+          "2026-09-04"
+        ],
+        [
+          "70050000079397",
+          "0100AB00287FD002",
+          "SP x3 - Asdivine Knot",
+          "2026-09-04"
+        ],
+        [
+          "70050000079398",
+          "0100AB00287FD003",
+          "Experience & SP x2 - Asdivine Knot",
+          "2026-09-04"
+        ],
+        [
+          "70050000079399",
+          "0100AB00287FD004",
+          "Damage x2 - Asdivine Knot",
+          "2026-09-04"
+        ]
+      ]
+    }
   ],
   "70010000135622": [
     "01004BB027446000",
@@ -118484,7 +118530,7 @@
       "dlcs": [
         [
           "70050000080511",
-          "暂无",
+          "01004BB027447001",
           "堡壘合併:Claire禮包",
           "2026-09-04"
         ]
