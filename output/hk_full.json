@@ -53729,7 +53729,17 @@
     "0100B7C00933A000",
     "皮克敏４",
     "2023-07-21",
-    "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+    "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000080816",
+          "暂无",
+          "皮克敏4 Nintendo Switch 2 Edition + 大家來挑戰! 當多慮檢定 升級通行證",
+          "2026-11-12"
+        ]
+      ]
+    }
   ],
   "70010000068613": [
     "010028401BC9C000",
@@ -75345,7 +75355,17 @@
     "01009770201DE000",
     "Wizards Owl: Magic Delivery",
     "2024-10-10",
-    "English"
+    "English",
+    {
+      "dlcs": [
+        [
+          "70050000080309",
+          "暂无",
+          "Wizards Owl: Magic Delivery – Mystic Horizon",
+          "2026-09-10"
+        ]
+      ]
+    }
   ],
   "70010000085276": [
     "010017C02028E000",
@@ -78003,7 +78023,17 @@
     "010010C0211BC000",
     "Banana-Clicker",
     "2024-11-21",
-    "English"
+    "English",
+    {
+      "dlcs": [
+        [
+          "70050000080216",
+          "暂无",
+          "Banana-Clicker: Click Power",
+          "2026-09-10"
+        ]
+      ]
+    }
   ],
   "70010000089480": [
     "0100117021218000",
@@ -78343,6 +78373,12 @@
           "0100E48020DFF003",
           "Grand Rush: Highway Car Traffic Racing Simulator – Drive in Color",
           "2025-10-23"
+        ],
+        [
+          "70050000080490",
+          "暂无",
+          "Grand Rush: Highway Car Traffic Racing Simulator – Driver’s Fortune",
+          "2026-09-10"
         ]
       ]
     }
@@ -80385,7 +80421,17 @@
     "0100C0702115C000",
     "Warfront Tactics: Battlefield Chronicles Battle Simulator",
     "2025-01-09",
-    "English"
+    "English",
+    {
+      "dlcs": [
+        [
+          "70050000080725",
+          "暂无",
+          "Warfront Tactics: Battlefield Chronicles Battle Simulator – Military Capital",
+          "2026-09-10"
+        ]
+      ]
+    }
   ],
   "70010000089400": [
     "0100B7C01D480000",
@@ -83055,7 +83101,17 @@
     "0100B000217FE000",
     "VoidCraft Island Chronicles: Sky Survival",
     "2025-02-27",
-    "English"
+    "English",
+    {
+      "dlcs": [
+        [
+          "70050000080205",
+          "暂无",
+          "VoidCraft Island Chronicles: Sky Survival – Vivid Arsenal",
+          "2026-09-10"
+        ]
+      ]
+    }
   ],
   "70010000091175": [
     "01006A4021856000",
@@ -83747,7 +83803,17 @@
     "010054E022146000",
     "Mine Clicker - Base Craft Building Game",
     "2025-03-13",
-    "English"
+    "English",
+    {
+      "dlcs": [
+        [
+          "70050000080620",
+          "暂无",
+          "Mine Clicker - Base Craft Building Game: New Horizons",
+          "2026-09-10"
+        ]
+      ]
+    }
   ],
   "70010000092820": [
     "0100CB3022230000",
@@ -95883,7 +95949,17 @@
     "01006410248EE000",
     "Port Logistics Simulator: Dockside Harbor Handling",
     "2025-09-18",
-    "English"
+    "English",
+    {
+      "dlcs": [
+        [
+          "70050000080515",
+          "暂无",
+          "Port Logistics Simulator: Dockside Harbor Handling – Dockside Skies",
+          "2026-09-10"
+        ]
+      ]
+    }
   ],
   "70010000102680": [
     "01003FC024AAE000",
@@ -96775,7 +96851,17 @@
     "0100005024B90000",
     "Car Parking - Garage Simulator",
     "2025-09-25",
-    "English"
+    "English",
+    {
+      "dlcs": [
+        [
+          "70050000080523",
+          "暂无",
+          "Car Parking - Garage Simulator: Fresh Look",
+          "2026-09-10"
+        ]
+      ]
+    }
   ],
   "70010000103150": [
     "010069C024B9E000",
@@ -98067,7 +98153,17 @@
     "0100C05024E26000",
     "Hole Digging Simulator 2025",
     "2025-10-16",
-    "English"
+    "English",
+    {
+      "dlcs": [
+        [
+          "70050000080200",
+          "暂无",
+          "Hole Digging Simulator 2025: Rainy Digging",
+          "2026-09-10"
+        ]
+      ]
+    }
   ],
   "70010000103834": [
     "01006C9024D6E000",
@@ -106727,7 +106823,17 @@
     "0100D59022590000",
     "Scott Pilgrim EX",
     "2026-03-05",
-    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000077790",
+          "暂无",
+          "Scott Pilgrim EX - Back in the Band",
+          "2026-09-10"
+        ]
+      ]
+    }
   ],
   "70010000094349": [
     "01008D90229E2000",
@@ -106841,7 +106947,17 @@
     "040073D025D98000",
     "Scott Pilgrim EX",
     "2026-03-05",
-    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000077793",
+          "暂无",
+          "Scott Pilgrim EX - Back in the Band",
+          "2026-09-10"
+        ]
+      ]
+    }
   ],
   "70010000110584": [
     "010016E025E60000",
@@ -117281,6 +117397,36 @@
           "01007390285AF007",
           "服裝「惡魔萌虎」",
           "2026-09-03"
+        ],
+        [
+          "70050000076467",
+          "暂无",
+          "服裝「包裝兔女郎」",
+          "2026-09-10"
+        ],
+        [
+          "70050000077002",
+          "暂无",
+          "服裝「罪孽深重逆兔女郎」",
+          "2026-09-10"
+        ],
+        [
+          "70050000077004",
+          "暂无",
+          "服裝「賽車女郎」",
+          "2026-09-10"
+        ],
+        [
+          "70050000077005",
+          "暂无",
+          "服裝「猛烈乳牛紋比基尼」",
+          "2026-09-10"
+        ],
+        [
+          "70050000077006",
+          "暂无",
+          "服裝「賽博女忍者」",
+          "2026-09-10"
         ]
       ]
     }
@@ -118583,7 +118729,89 @@
     "0400DBB02626E000",
     "HOT WHEELS™ Infinite Rush",
     "2026-09-10",
-    "English, French, German, Italian, Japanese, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+    "English, French, German, Italian, Japanese, Portuguese, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000077606",
+          "暂无",
+          "HOT WHEELS™ Infinite Rush - Just for Fun Pack",
+          "2026-09-10"
+        ],
+        [
+          "70050000077611",
+          "暂无",
+          "HOT WHEELS™ Infinite Rush - Go Big or Go Home Pack",
+          "2026-09-10"
+        ],
+        [
+          "70050000077618",
+          "暂无",
+          "HOT WHEELS™ Infinite Rush - Ferrari Expansion Pack",
+          "2026-09-10"
+        ],
+        [
+          "70050000077623",
+          "暂无",
+          "HOT WHEELS™ Infinite Rush - All You Can Drift Pack",
+          "2026-09-10"
+        ],
+        [
+          "70050000077631",
+          "暂无",
+          "HOT WHEELS™ Infinite Rush - Express Lane Pack",
+          "2026-09-10"
+        ],
+        [
+          "70050000077636",
+          "暂无",
+          "HOT WHEELS™ Infinite Rush - Ferrari Legends Pack",
+          "2026-09-10"
+        ],
+        [
+          "70050000077641",
+          "暂无",
+          "HOT WHEELS™ Infinite Rush - Drifting Club Pack",
+          "2026-09-10"
+        ],
+        [
+          "70050000077695",
+          "暂无",
+          "HOT WHEELS™ Infinite Rush - Oversized Beasts Pack",
+          "2026-09-10"
+        ],
+        [
+          "70050000077699",
+          "暂无",
+          "HOT WHEELS™ Infinite Rush - Speed of Light Pack",
+          "2026-09-10"
+        ],
+        [
+          "70050000077704",
+          "暂无",
+          "HOT WHEELS™ Infinite Rush - Jack of All Trades Pack",
+          "2026-09-10"
+        ],
+        [
+          "70050000077711",
+          "暂无",
+          "HOT WHEELS™ Infinite Rush - Drift Racers Pack",
+          "2026-09-10"
+        ],
+        [
+          "70050000077714",
+          "暂无",
+          "HOT WHEELS™ Infinite Rush - Fast Engines Pack",
+          "2026-09-10"
+        ],
+        [
+          "70050000078765",
+          "暂无",
+          "HOT WHEELS™ Infinite Rush - Car Collection Pack",
+          "2026-09-10"
+        ]
+      ]
+    }
   ],
   "70010000117018": [
     "0100C55026EF6000",
@@ -118597,11 +118825,33 @@
     "2026-09-10",
     "English"
   ],
+  "70010000124782": [
+    "01007680281C2000",
+    "東方紅魔鄉：新典　～ the Embodiment of Scarlet Devil.",
+    "2026-09-10",
+    "Simplified Chinese, Portuguese, English, Russian, German, French, Traditional Chinese, Korean, Italian, Spanish, Japanese"
+  ],
   "70010000125066": [
     "0100DF90282A0000",
     "Lamp Clicker",
     "2026-09-10",
-    "English"
+    "English",
+    {
+      "dlcs": [
+        [
+          "70050000078918",
+          "暂无",
+          "Lamp Clicker - Spooky Lamps - DLC",
+          "2026-09-10"
+        ],
+        [
+          "70050000078919",
+          "暂无",
+          "Lamp Clicker - Spooky Background - DLC",
+          "2026-09-10"
+        ]
+      ]
+    }
   ],
   "70010000125672": [
     "0100C950284D2000",
@@ -118619,7 +118869,23 @@
     "010063302712A000",
     "永泉傳說 FOUNTAINS",
     "2026-09-10",
-    "English, French, German, Japanese, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+    "English, French, German, Japanese, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000077741",
+          "暂无",
+          "永泉傳說 —— 破碎之形 FOUNTAINS - Shattered Shape",
+          "2026-09-17"
+        ]
+      ]
+    }
+  ],
+  "70010000127780": [
+    "0400A1B0289D4000",
+    "東方紅魔鄉：新典　～ the Embodiment of Scarlet Devil.",
+    "2026-09-10",
+    "French, Korean, German, Simplified Chinese, Japanese, Spanish, Traditional Chinese, Portuguese, English, Russian, Italian"
   ],
   "70010000128549": [
     "01003D3028B66000",
@@ -119727,11 +119993,23 @@
     "2026-11-26",
     "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000092412": [
+    "01000F1021FB0000",
+    "勇者鬥惡龍怪物仙境4 枯木國的碧安卡與芙蘿拉",
+    "2026-12-03",
+    "Spanish, Japanese, German, Simplified Chinese, French, English, Korean, Traditional Chinese, Italian"
+  ],
   "70010000098137": [
     "01005C1023928000",
     "電兔拉比！(Fall Up)",
     "2026-12-03",
     "English, Japanese, Simplified Chinese, Traditional Chinese"
+  ],
+  "70010000111170": [
+    "04006A4025F9A000",
+    "勇者鬥惡龍怪物仙境4 枯木國的碧安卡與芙蘿拉",
+    "2026-12-03",
+    "Italian, German, Japanese, Simplified Chinese, Traditional Chinese, French, Korean, Spanish, English"
   ],
   "70010000080764": [
     "01003F501F012000",
