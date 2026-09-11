@@ -915,7 +915,7 @@
     "010050F00BC1A000",
     "Resident Evil",
     "2019-05-21",
-    "Japanese, Italian, Simplified Chinese, English, Traditional Chinese, French, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian, Simplified Chinese, Traditional Chinese"
   ],
   "70010000012857": [
     "010099A00BC1E000",
@@ -933,13 +933,13 @@
     "01007F600B134000",
     "《刺客教條 III 重製版》(Assassin's Creed 3 Remastered)",
     "2019-05-23",
-    "Japanese, Korean, Italian, Dutch, Simplified Chinese, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish"
+    "Japanese, English, Spanish, French, Portuguese, German, Italian, Dutch, Russian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000016610": [
     "010054F00D2E2000",
     "偵探 神宮寺三郎 前傳 DAEDALUS : The Awakening of Golden Jazz",
     "2019-05-23",
-    "Traditional Chinese, Japanese, Korean, English"
+    "Japanese, English, Korean, Chinese"
   ],
   "70010000016881": [
     "01007DF00D420000",
@@ -951,7 +951,7 @@
     "0100F7000DC14000",
     "LOVE LOVE 甜點 ~你和我的秘密食譜~",
     "2019-05-30",
-    "Traditional Chinese, Japanese, Korean, English"
+    "Japanese, English, Korean, Chinese"
   ],
   "70010000020283": [
     "010012200DAD0000",
@@ -14929,9 +14929,9 @@
   ],
   "70010000054895": [
     "010071801894E000",
-    "Zumba Garden",
+    "Marbles Garden",
     "2022-08-18",
-    "Russian, German, Italian, French, English, Portuguese, Spanish"
+    "Russian, English, German, Spanish, Italian, Portuguese, French"
   ],
   "70010000055087": [
     "01009A10189E6000",
@@ -62254,5 +62254,11 @@
     "Yu-Gi-Oh! TAG FORCE GX",
     "2027-02-16",
     "English, French, German, Japanese, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000133231": [
+    "04003AD02923E000",
+    "ZELDA無雙 災厄啟示錄豪華版",
+    "2027-02-25",
+    "Dutch, English, French, German, Italian, Japanese, Korean, Simplified Chinese, Spanish, Traditional Chinese"
   ]
 }
