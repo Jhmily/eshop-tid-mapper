@@ -4273,7 +4273,7 @@
     "01007DF00D420000",
     "DESTINY CONNECT　命運連動",
     "2019-05-30",
-    "Traditional Chinese"
+    "Chinese"
   ],
   "70010000018834": [
     "0100F7000DC14000",
@@ -88141,6 +88141,12 @@
           "暂无",
           "塗色大師：像素夢想家 四季物語 冬天2 (Pixel Cross Stitch Color by Number Seasons Collection: Winter 2)",
           "2026-07-16"
+        ],
+        [
+          "70050000080509",
+          "暂无",
+          "塗色大師：像素夢想家 四季物語 復活節 (Pixel Cross Stitch Color by Number Seasons Collection: Easter)",
+          "2026-09-12"
         ]
       ]
     }
@@ -89981,6 +89987,12 @@
           "暂无",
           "水果",
           "2026-07-16"
+        ],
+        [
+          "70050000080761",
+          "暂无",
+          "糕點店",
+          "2026-09-12"
         ]
       ]
     }
@@ -115809,7 +115821,7 @@
   ],
   "70010000124325": [
     "0100CBB027BA4000",
-    "Avatar Legends: The Fighting Game",
+    " Avatar Legends: The Fighting Game",
     "2026-07-23",
     "English"
   ],
