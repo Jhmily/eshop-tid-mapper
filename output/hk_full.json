@@ -113856,13 +113856,13 @@
           "70050000075217",
           "01003F502798B001",
           "After Story case.CATS",
-          "2026-07-02"
+          "2026-09-10"
         ],
         [
           "70050000075218",
           "01003F502798B002",
           "After Story case.BIRDS",
-          "2026-07-02"
+          "2026-09-10"
         ]
       ]
     }
@@ -117412,31 +117412,31 @@
         ],
         [
           "70050000076467",
-          "暂无",
+          "01007390285AF001",
           "服裝「包裝兔女郎」",
           "2026-09-10"
         ],
         [
           "70050000077002",
-          "暂无",
+          "01007390285AF006",
           "服裝「罪孽深重逆兔女郎」",
           "2026-09-10"
         ],
         [
           "70050000077004",
-          "暂无",
+          "01007390285AF008",
           "服裝「賽車女郎」",
           "2026-09-10"
         ],
         [
           "70050000077005",
-          "暂无",
+          "01007390285AF009",
           "服裝「猛烈乳牛紋比基尼」",
           "2026-09-10"
         ],
         [
           "70050000077006",
-          "暂无",
+          "01007390285AF00A",
           "服裝「賽博女忍者」",
           "2026-09-10"
         ]
@@ -118737,6 +118737,12 @@
     "2026-09-09",
     "English, Japanese"
   ],
+  "70010000124782": [
+    "01007680281C2000",
+    "東方紅魔鄉：新典　～ the Embodiment of Scarlet Devil.",
+    "2026-09-09",
+    "French, Japanese, English, German, Russian, Simplified Chinese, Traditional Chinese, Spanish, Korean, Portuguese, Italian"
+  ],
   "70010000131254": [
     "010096702904E000",
     "東方紅魔鄉：新典 Soundtrack Player",
@@ -118885,12 +118891,6 @@
     "2026-09-10",
     "English"
   ],
-  "70010000124782": [
-    "01007680281C2000",
-    "東方紅魔鄉：新典　～ the Embodiment of Scarlet Devil.",
-    "2026-09-10",
-    "Simplified Chinese, Portuguese, English, Russian, German, French, Traditional Chinese, Korean, Italian, Spanish, Japanese"
-  ],
   "70010000124953": [
     "01008A8028274000",
     "100 Romantic Hidden Cats",
@@ -118906,13 +118906,13 @@
       "dlcs": [
         [
           "70050000078918",
-          "暂无",
+          "0100DF90282A1001",
           "Lamp Clicker - Spooky Lamps - DLC",
           "2026-09-10"
         ],
         [
           "70050000078919",
-          "暂无",
+          "0100DF90282A1002",
           "Lamp Clicker - Spooky Background - DLC",
           "2026-09-10"
         ]
@@ -118936,22 +118936,6 @@
     "One-inch Tactics",
     "2026-09-10",
     "English, Japanese, Korean, Simplified Chinese, Traditional Chinese"
-  ],
-  "70010000126860": [
-    "010063302712A000",
-    "永泉傳說 FOUNTAINS",
-    "2026-09-10",
-    "English, French, German, Japanese, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese",
-    {
-      "dlcs": [
-        [
-          "70050000077741",
-          "暂无",
-          "永泉傳說 —— 破碎之形 FOUNTAINS - Shattered Shape",
-          "2026-09-17"
-        ]
-      ]
-    }
   ],
   "70010000127519": [
     "0100BC702894A000",
@@ -119516,6 +119500,22 @@
     "Artis Impact 愛氏物語",
     "2026-09-17",
     "English, French, Italian, Japanese, Korean, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000126860": [
+    "010063302712A000",
+    "永泉傳說 FOUNTAINS",
+    "2026-09-17",
+    "Japanese, English, Spanish, Portuguese, French, German, Russian, Simplified Chinese, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000077741",
+          "010063302712B001",
+          "永泉傳說 —— 破碎之形 FOUNTAINS - Shattered Shape",
+          "2026-09-17"
+        ]
+      ]
+    }
   ],
   "70010000126932": [
     "04007EF01F8AE000",
@@ -120135,7 +120135,17 @@
     "01005970258FE000",
     "Bluey's Happy Snaps",
     "2026-10-15",
-    "English, French, German, Italian, Japanese, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+    "English, French, German, Italian, Japanese, Portuguese, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000072761",
+          "01005970258FF001",
+          "Bluey's Happy Snaps：豪華版附加內容",
+          "2026-10-15"
+        ]
+      ]
+    }
   ],
   "70010000109106": [
     "0400376025BC2000",
