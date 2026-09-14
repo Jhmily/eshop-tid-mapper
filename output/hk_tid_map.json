@@ -969,13 +969,13 @@
     "01000E200DC58000",
     "OCTOPATH TRAVELER 歧路旅人",
     "2019-06-07",
-    "Japanese, Simplified Chinese, Traditional Chinese, Italian, German, Spanish, French, English"
+    "Japanese, English, Spanish, French, German, Italian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000020718": [
     "0100AC800D022000",
     "THE LAST REMNANT Remastered",
     "2019-06-11",
-    "Japanese, Italian, English, French, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian"
   ],
   "70010000018262": [
     "010069B00D9FE000",
@@ -61523,6 +61523,12 @@
     "2026-09-15",
     "English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000104367": [
+    "0400083024FF0000",
+    "《暗黑破壞神® IV：憎恨時代合輯》",
+    "2026-09-16",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
   "70010000105773": [
     "0100F3E024DFC000",
     "Another Eden Begins",
@@ -61642,6 +61648,12 @@
     "Sweet Land Survival",
     "2026-09-17",
     "English"
+  ],
+  "70010000125838": [
+    "0100F41028564000",
+    "Paddle Paddle Paddle",
+    "2026-09-17",
+    "English, French, German, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000125979": [
     "0100C97022ABC000",
