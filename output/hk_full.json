@@ -4433,13 +4433,13 @@
     "01000E200DC58000",
     "OCTOPATH TRAVELER 歧路旅人",
     "2019-06-07",
-    "Japanese, English, Spanish, French, German, Italian, Korean, Simplified Chinese, Traditional Chinese"
+    "Japanese, Simplified Chinese, Traditional Chinese, Italian, German, Spanish, French, English"
   ],
   "70010000020718": [
     "0100AC800D022000",
     "THE LAST REMNANT Remastered",
     "2019-06-11",
-    "Japanese, English, Spanish, French, German, Italian"
+    "Japanese, Italian, English, French, German, Spanish"
   ],
   "70010000018262": [
     "010069B00D9FE000",
@@ -29845,7 +29845,7 @@
     "01009BD0144EE000",
     "Sniper Time: The Shooting Range",
     "2021-12-23",
-    "Japanese, English, Portuguese, Russian, German, Spanish"
+    "Japanese, English, Spanish, German, Portuguese, Russian"
   ],
   "70010000044866": [
     "01000B1015F7C000",
@@ -120141,7 +120141,29 @@
     "04007FD027432000",
     "啦嗒噹(Ratatan)",
     "2026-10-14",
-    "English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000077117",
+          "暂无",
+          "啦嗒噹(Ratatan) - 裝備與飾品組合包",
+          "2026-10-14"
+        ],
+        [
+          "70050000077520",
+          "暂无",
+          "啦嗒噹(Ratatan) - 超級歌寳組合包",
+          "2026-10-14"
+        ],
+        [
+          "70050000077581",
+          "暂无",
+          "啦嗒噹(Ratatan) - 育成素材組合包",
+          "2026-10-14"
+        ]
+      ]
+    }
   ],
   "70010000107714": [
     "01005970258FE000",
