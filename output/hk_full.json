@@ -4433,7 +4433,7 @@
     "01000E200DC58000",
     "OCTOPATH TRAVELER 歧路旅人",
     "2019-06-07",
-    "Japanese, Simplified Chinese, Traditional Chinese, Italian, German, Spanish, French, English"
+    "Japanese, English, Spanish, French, German, Italian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000020718": [
     "0100AC800D022000",
@@ -119283,6 +119283,22 @@
     "2026-09-10",
     "English, French, German, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000126485": [
+    "04004E8025EC4000",
+    "RuneScape: Dragonwilds 符文世界：龍之荒野",
+    "2026-09-15",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000080698",
+          "暂无",
+          "RuneScape: Dragonwilds - 豪華版升級",
+          "2026-09-15"
+        ]
+      ]
+    }
+  ],
   "70010000132383": [
     "04009E10268BA000",
     "Destroy All Humans! 2 - Reprobed",
@@ -119305,7 +119321,83 @@
     "0400083024FF0000",
     "《暗黑破壞神® IV：憎恨時代合輯》",
     "2026-09-16",
-    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000079847",
+          "暂无",
+          "法語包",
+          "2026-09-16"
+        ],
+        [
+          "70050000079886",
+          "暂无",
+          "德語包",
+          "2026-09-16"
+        ],
+        [
+          "70050000079887",
+          "暂无",
+          "西班牙語（西班牙）包",
+          "2026-09-16"
+        ],
+        [
+          "70050000079888",
+          "暂无",
+          "西班牙語（拉美）包",
+          "2026-09-16"
+        ],
+        [
+          "70050000079889",
+          "暂无",
+          "俄語包",
+          "2026-09-16"
+        ],
+        [
+          "70050000079890",
+          "暂无",
+          "波蘭語包",
+          "2026-09-16"
+        ],
+        [
+          "70050000079891",
+          "暂无",
+          "韓語包",
+          "2026-09-16"
+        ],
+        [
+          "70050000079892",
+          "暂无",
+          "日語包",
+          "2026-09-16"
+        ],
+        [
+          "70050000079893",
+          "暂无",
+          "義大利語包",
+          "2026-09-16"
+        ],
+        [
+          "70050000079894",
+          "暂无",
+          "繁體中文包",
+          "2026-09-16"
+        ],
+        [
+          "70050000079895",
+          "暂无",
+          "簡體中文包",
+          "2026-09-16"
+        ],
+        [
+          "70050000079896",
+          "暂无",
+          "巴西語包",
+          "2026-09-16"
+        ]
+      ]
+    }
   ],
   "70010000105773": [
     "0100F3E024DFC000",

@@ -969,7 +969,7 @@
     "01000E200DC58000",
     "OCTOPATH TRAVELER 歧路旅人",
     "2019-06-07",
-    "Japanese, Simplified Chinese, Traditional Chinese, Italian, German, Spanish, French, English"
+    "Japanese, English, Spanish, French, German, Italian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000020718": [
     "0100AC800D022000",
@@ -61504,6 +61504,12 @@
     "BROKEN FIELDS: Stay or Run? (破碎田野：留下還是逃跑？)",
     "2026-09-10",
     "English, French, German, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000126485": [
+    "04004E8025EC4000",
+    "RuneScape: Dragonwilds 符文世界：龍之荒野",
+    "2026-09-15",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000132383": [
     "04009E10268BA000",
