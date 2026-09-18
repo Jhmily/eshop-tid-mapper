@@ -1381,13 +1381,13 @@
   ],
   "70010000022793": [
     "0100F1F00F574000",
-    "殭屍仙境瘋狂旅DX ",
+    "殭屍仙境瘋狂旅DX",
     "2019-12-04",
-    "Traditional Chinese, Simplified Chinese, Japanese, Korean"
+    "Japanese, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000022813": [
     "010049A00F5AC000",
-    "輕鬆網球SP",
+    "輕鬆網球SP(Family Tennis SP)",
     "2019-12-04",
     "Japanese, English"
   ],
@@ -61642,6 +61642,12 @@
     "TORO 2 (托羅2)",
     "2026-09-17",
     "English, French, German, Italian, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000118407": [
+    "04009A60272CA000",
+    "夢之形 (Shape of Dreams)",
+    "2026-09-17",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000118987": [
     "01003ED027414000",

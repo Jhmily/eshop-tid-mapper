@@ -6563,13 +6563,13 @@
   ],
   "70010000022793": [
     "0100F1F00F574000",
-    "殭屍仙境瘋狂旅DX ",
+    "殭屍仙境瘋狂旅DX",
     "2019-12-04",
-    "Traditional Chinese, Simplified Chinese, Japanese, Korean"
+    "Japanese, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000022813": [
     "010049A00F5AC000",
-    "輕鬆網球SP",
+    "輕鬆網球SP(Family Tennis SP)",
     "2019-12-04",
     "Japanese, English"
   ],
@@ -49095,6 +49095,12 @@
           "暂无",
           "額外畫板 3",
           "2026-07-22"
+        ],
+        [
+          "70050000081136",
+          "暂无",
+          "額外畫板 4",
+          "2026-09-18"
         ]
       ]
     }
@@ -72809,6 +72815,12 @@
           "暂无",
           "綠禪套",
           "2026-07-22"
+        ],
+        [
+          "70050000081138",
+          "暂无",
+          "馬年套",
+          "2026-09-18"
         ]
       ]
     }
@@ -76965,6 +76977,12 @@
           "01002610207BD003",
           "Party Smile Pack",
           "2025-03-27"
+        ],
+        [
+          "70050000080870",
+          "暂无",
+          "Party Party Time 3 Nintendo Switch 2 Edition升級通行證",
+          "2026-09-18"
         ]
       ]
     }
@@ -120080,6 +120098,12 @@
     "TORO 2 (托羅2)",
     "2026-09-17",
     "English, French, German, Italian, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000118407": [
+    "04009A60272CA000",
+    "夢之形 (Shape of Dreams)",
+    "2026-09-17",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000118987": [
     "01003ED027414000",
