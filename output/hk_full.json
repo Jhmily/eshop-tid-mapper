@@ -7053,7 +7053,7 @@
     "010035D00A190000",
     "Dimension Drive",
     "2020-01-23",
-    "English, Spanish"
+    "Spanish, English"
   ],
   "70010000011500": [
     "010056D00B0F4000",
@@ -7181,7 +7181,7 @@
     "0100FCE00F9B0000",
     "LANGRISSER I & II Remake 夢幻模擬戰 I & II 重製版",
     "2020-01-23",
-    "Japanese, English, Korean, Chinese"
+    "Traditional Chinese, Japanese, Korean"
   ],
   "70010000024505": [
     "01002FF00FBBE000",
@@ -115331,7 +115331,17 @@
     "010073A028ADC000",
     "傾斜一下！高爾夫",
     "2026-07-10",
-    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000077466",
+          "暂无",
+          "傾斜一下！高爾夫 - 沙地滾球 DLC",
+          "2026-09-25"
+        ]
+      ]
+    }
   ],
   "70010000060571": [
     "0100FA2019CEE000",
@@ -121227,7 +121237,83 @@
     "0100C49025D3E000",
     "EA SPORTS FC™ 27",
     "2026-09-25",
-    "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+    "Japanese, French, Italian, Dutch, Portuguese, English, Russian, Korean, Simplified Chinese, Traditional Chinese, German, Spanish",
+    {
+      "dlcs": [
+        [
+          "70050000072042",
+          "暂无",
+          "《EA SPORTS FC™ 27》遊戲內球評 – 義大利語",
+          "2026-09-25"
+        ],
+        [
+          "70050000072053",
+          "暂无",
+          "《EA SPORTS FC™ 27》遊戲內球評 – 德語",
+          "2026-09-25"
+        ],
+        [
+          "70050000072059",
+          "暂无",
+          "《EA SPORTS FC™ 27》遊戲內球評 – 西班牙語",
+          "2026-09-25"
+        ],
+        [
+          "70050000072065",
+          "暂无",
+          "《EA SPORTS FC™ 27》遊戲內球評 – 荷蘭語",
+          "2026-09-25"
+        ],
+        [
+          "70050000072071",
+          "暂无",
+          "《EA SPORTS FC™ 27》遊戲內球評 – 波蘭語",
+          "2026-09-25"
+        ],
+        [
+          "70050000072077",
+          "暂无",
+          "《EA SPORTS FC™ 27》遊戲內球評 – 土耳其語",
+          "2026-09-25"
+        ],
+        [
+          "70050000072083",
+          "暂无",
+          "《EA SPORTS FC™ 27》遊戲內球評 – 葡萄牙語（巴西）",
+          "2026-09-25"
+        ],
+        [
+          "70050000072089",
+          "暂无",
+          "《EA SPORTS FC™ 27》遊戲內球評 – 拉丁美洲西班牙語",
+          "2026-09-25"
+        ],
+        [
+          "70050000072095",
+          "暂无",
+          "《EA SPORTS FC™ 27》遊戲內球評 – 日本語",
+          "2026-09-25"
+        ],
+        [
+          "70050000072101",
+          "暂无",
+          "《EA SPORTS FC™ 27》遊戲內球評 – 韓語",
+          "2026-09-25"
+        ],
+        [
+          "70050000072107",
+          "暂无",
+          "《EA SPORTS FC™ 27》遊戲內球評 – 簡體中文",
+          "2026-09-25"
+        ],
+        [
+          "70050000072113",
+          "暂无",
+          "《EA SPORTS FC™ 27》遊戲內球評 – 阿拉伯語",
+          "2026-09-25"
+        ]
+      ]
+    }
   ],
   "70010000110126": [
     "0400CE0025D42000",
