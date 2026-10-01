@@ -1659,7 +1659,7 @@
     "010035D00A190000",
     "Dimension Drive",
     "2020-01-23",
-    "Spanish, English"
+    "English, Spanish"
   ],
   "70010000011500": [
     "010056D00B0F4000",
@@ -10851,7 +10851,7 @@
     "01009BD0144EE000",
     "Sniper Time: The Shooting Range",
     "2021-12-23",
-    "Japanese, English, Spanish, German, Portuguese, Russian"
+    "Japanese, English, Portuguese, Russian, German, Spanish"
   ],
   "70010000044866": [
     "01000B1015F7C000",
@@ -62602,6 +62602,12 @@
     "Super Shooting Gallery Battle",
     "2026-10-08",
     "English, Japanese"
+  ],
+  "70010000118033": [
+    "0400BB80271AE000",
+    "Dragon's Dogma 2: Dark Arisen",
+    "2026-10-09",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000131077": [
     "0100A0902789A000",

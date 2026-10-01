@@ -7053,7 +7053,7 @@
     "010035D00A190000",
     "Dimension Drive",
     "2020-01-23",
-    "Spanish, English"
+    "English, Spanish"
   ],
   "70010000011500": [
     "010056D00B0F4000",
@@ -29857,7 +29857,7 @@
     "01009BD0144EE000",
     "Sniper Time: The Shooting Range",
     "2021-12-23",
-    "Japanese, English, Spanish, German, Portuguese, Russian"
+    "Japanese, English, Portuguese, Russian, German, Spanish"
   ],
   "70010000044866": [
     "01000B1015F7C000",
@@ -39839,6 +39839,12 @@
           "暂无",
           "1990年代流行音樂Pack",
           "2026-09-03"
+        ],
+        [
+          "70050000081464",
+          "暂无",
+          "2000系列Pack Vol. 2",
+          "2026-10-01"
         ]
       ]
     }
@@ -57945,6 +57951,12 @@
           "01001F501C3EB005",
           "Full Restore - Alphadia I & II",
           "2023-10-13"
+        ],
+        [
+          "70050000081690",
+          "暂无",
+          "Alphadia I & II - Nintendo Switch 2 Edition升級通行證",
+          "2026-10-01"
         ]
       ]
     }
@@ -79825,6 +79837,12 @@
           "0100ED202095D003",
           "Float Survival Simulator – Ocean Survivor: Skybox Overhaul",
           "2025-11-27"
+        ],
+        [
+          "70050000081646",
+          "暂无",
+          "Float Survival Simulator - Ocean Survivor: Survival Kit",
+          "2026-10-01"
         ]
       ]
     }
@@ -80533,6 +80551,12 @@
           "暂无",
           "Warfront Tactics: Battlefield Chronicles Battle Simulator – Military Capital",
           "2026-09-10"
+        ],
+        [
+          "70050000080833",
+          "暂无",
+          "Warfront Tactics: Battlefield Chronicles Battle Simulator – War Funds",
+          "2026-10-01"
         ]
       ]
     }
@@ -92029,6 +92053,12 @@
           "暂无",
           "4x4 TRUCK OFFROAD CAR DRIVER – Mountain Raider Pack",
           "2026-09-17"
+        ],
+        [
+          "70050000080615",
+          "暂无",
+          "4x4 TRUCK OFFROAD CAR DRIVER – Mud Titan Pack",
+          "2026-10-01"
         ]
       ]
     }
@@ -93667,6 +93697,12 @@
           "01002D202400D001",
           "Cyber Car Seller Simulator: Credits of Power",
           "2025-11-13"
+        ],
+        [
+          "70050000081430",
+          "暂无",
+          "Cyber Car Seller Simulator: Above the City",
+          "2026-10-01"
         ]
       ]
     }
@@ -99101,6 +99137,12 @@
           "暂无",
           "OFC - Ultimate Fighting Club: Born to Fight",
           "2026-06-11"
+        ],
+        [
+          "70050000081600",
+          "暂无",
+          "OFC - Ultimate Fighting Club: Ring Legend",
+          "2026-10-01"
         ]
       ]
     }
@@ -110945,6 +110987,12 @@
           "暂无",
           "Supermarket Simulator 2026: Success Fund",
           "2026-07-30"
+        ],
+        [
+          "70050000081609",
+          "暂无",
+          "Supermarket Simulator 2026: Retail Boost",
+          "2026-10-01"
         ]
       ]
     }
@@ -118343,7 +118391,23 @@
     "01002DE02938C000",
     "Hololive Fantasy Battle",
     "2026-08-27",
-    "English, Japanese, Traditional Chinese"
+    "English, Japanese, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000081688",
+          "暂无",
+          "Hololive Fantasy Battle追加DLC－兔田佩克拉服裝「高雅純白」",
+          "2026-10-01"
+        ],
+        [
+          "70050000081691",
+          "暂无",
+          "Hololive Fantasy Battle追加DLC－寶鐘瑪琳服裝「水母風泳裝」",
+          "2026-10-01"
+        ]
+      ]
+    }
   ],
   "70010000131853": [
     "01002CE0293E8000",
@@ -120157,6 +120221,30 @@
           "暂无",
           "GBVSR - 特殊色彩禮包",
           "2026-09-17"
+        ],
+        [
+          "70050000077848",
+          "暂无",
+          "GBVSR - 角色服裝造型「夏綠蒂（鑽石之心）」",
+          "2026-10-01"
+        ],
+        [
+          "70050000077853",
+          "暂无",
+          "GBVSR - 角色服裝造型「嘉列翁（一切眾生慈惠矚目裝）」",
+          "2026-10-01"
+        ],
+        [
+          "70050000077971",
+          "暂无",
+          "GBVSR - 武器造型組合包「對戰通行證 Part.10」",
+          "2026-10-01"
+        ],
+        [
+          "70050000077977",
+          "暂无",
+          "GBVSR - 武器造型組合包「對戰通行證 Part.9」",
+          "2026-10-01"
         ]
       ]
     }
@@ -120361,6 +120449,12 @@
           "010063302712B001",
           "永泉傳說 —— 破碎之形 FOUNTAINS - Shattered Shape",
           "2026-09-17"
+        ],
+        [
+          "70050000081461",
+          "暂无",
+          "永泉傳說 FOUNTAINS: Nintendo Switch 2 Edition升級通行證",
+          "2026-10-01"
         ]
       ]
     }
@@ -120725,7 +120819,17 @@
     "04006B0029F68000",
     "神射手丹: 包羅萬象事務所",
     "2026-09-17",
-    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000081484",
+          "暂无",
+          "神射手丹 : 包羅萬象事務所：Hotshot DLC",
+          "2026-10-01"
+        ]
+      ]
+    }
   ],
   "70010000136297": [
     "0100AB5029FDA000",
@@ -121653,7 +121757,17 @@
     "0400FD5028A0E000",
     "The Relic: First Guardian",
     "2026-10-08",
-    "English, French, German, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+    "English, French, German, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000081436",
+          "暂无",
+          "The Night of the Unextinguished Flame DLC",
+          "2026-10-08"
+        ]
+      ]
+    }
   ],
   "70010000129745": [
     "0100BBF028E42000",
@@ -121778,6 +121892,12 @@
     "Super Shooting Gallery Battle",
     "2026-10-08",
     "English, Japanese"
+  ],
+  "70010000118033": [
+    "0400BB80271AE000",
+    "Dragon's Dogma 2: Dark Arisen",
+    "2026-10-09",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000131077": [
     "0100A0902789A000",
