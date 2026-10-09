@@ -8929,7 +8929,7 @@
     "0100D740110C0000",
     "阿爾德之血: 決定版 (Alder's Blood: Definitive Edition)",
     "2020-03-19",
-    "English, French, Russian, German, Spanish"
+    "English, Spanish, French, German, Russian"
   ],
   "70010000028175": [
     "01009B7010B42000",
@@ -49637,7 +49637,7 @@
     "0100F0401435E000",
     "《迪士尼無限飛車》— Disney Speedstorm",
     "2023-04-18",
-    "Japanese, Simplified Chinese, Russian, Korean, Traditional Chinese, Portuguese, English, Spanish, French, German, Italian",
+    "Japanese, English, Portuguese, Spanish, French, German, Italian, Russian, Korean, Simplified Chinese, Traditional Chinese",
     {
       "dlcs": [
         [
@@ -60471,6 +60471,12 @@
           "暂无",
           "星界戰士-天界樂園",
           "2026-09-24"
+        ],
+        [
+          "70050000081962",
+          "暂无",
+          "星界戰士 (Astral Ascent) - Nintendo Switch 2  Edition升級通行證",
+          "2026-10-09"
         ]
       ]
     }
@@ -63581,6 +63587,12 @@
           "暂无",
           "貓們包",
           "2026-08-12"
+        ],
+        [
+          "70050000081636",
+          "暂无",
+          "顏色盒子包",
+          "2026-10-09"
         ]
       ]
     }
@@ -97643,7 +97655,7 @@
     "01003FC021614000",
     "Clicker Heroes",
     "2025-10-02",
-    "English, French, German, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+    "Japanese, English, Spanish, Portuguese, French, German, Russian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000091987": [
     "0100713021C94000",
@@ -121949,6 +121961,12 @@
     "2026-10-08",
     "English, Japanese, Simplified Chinese, Traditional Chinese"
   ],
+  "70010000100036": [
+    "0400BB40240EC000",
+    "《飆酷車神：動力慶典》",
+    "2026-10-08",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
   "70010000107040": [
     "0100E57020E4A000",
     "《幽室鬼牌》（Deck of Haunts）",
@@ -121976,6 +121994,12 @@
         ]
       ]
     }
+  ],
+  "70010000116559": [
+    "0400A45026DE6000",
+    "未完的冒險 (Forever Ago)",
+    "2026-10-08",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000117239": [
     "0400002022966000",
@@ -122454,6 +122478,34 @@
     "沉星之序",
     "2026-10-09",
     "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000135039": [
+    "010031F029CCC000",
+    "溫馨喵憶",
+    "2026-10-09",
+    "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000082010",
+          "暂无",
+          "溫馨喵憶：復古 DLC",
+          "2026-10-09"
+        ],
+        [
+          "70050000082011",
+          "暂无",
+          "溫馨喵憶：慵懶 DLC",
+          "2026-10-09"
+        ],
+        [
+          "70050000082012",
+          "暂无",
+          "溫馨喵憶：放鬆 DLC",
+          "2026-10-09"
+        ]
+      ]
+    }
   ],
   "70010000131077": [
     "0100A0902789A000",
@@ -123196,6 +123248,12 @@
     "勇者鬥惡龍怪物仙境4 枯木國的碧安卡與芙蘿拉",
     "2026-12-03",
     "Italian, German, Japanese, Simplified Chinese, Traditional Chinese, French, Korean, Spanish, English"
+  ],
+  "70010000126599": [
+    "0400D4002877C000",
+    "磕磕絆絆圓舞曲",
+    "2026-12-03",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000102605": [
     "04000D2024A7C000",
