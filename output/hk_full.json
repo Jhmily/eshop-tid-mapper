@@ -42979,7 +42979,7 @@
     "0100BEE017FC0000",
     "《Just Dance 舞力全開》",
     "2022-11-22",
-    "Dutch, Italian, Traditional Chinese, English, German, Japanese, Spanish, French, Russian, Simplified Chinese, Korean, Portuguese",
+    "Russian, Spanish, German, Dutch, Portuguese, Traditional Chinese, Italian, French, Japanese, Korean, English, Simplified Chinese",
     {
       "dlcs": [
         [
@@ -72723,7 +72723,7 @@
     "0100A9E01AE9A000",
     "Stumble Guys",
     "2024-08-20",
-    "German, Korean, Dutch, Italian, Portuguese, Japanese, French, Spanish, Russian, English"
+    "Japanese, English, Portuguese, Spanish, French, German, Italian, Dutch, Russian, Korean, Thai, Polish"
   ],
   "70010000054297": [
     "01006150186A8000",
@@ -122523,7 +122523,41 @@
     "0100A0902789A000",
     "《海綿寶寶：海洋巨頭之亂》",
     "2026-10-13",
-    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000081237",
+          "暂无",
+          "《海綿寶寶：海洋巨頭之亂》- Double Deluxe Costume Pack DLC",
+          "2026-10-13"
+        ],
+        [
+          "70050000081238",
+          "暂无",
+          "《海綿寶寶：海洋巨頭之亂》 - Search for SquarePants Costume Pack DLC",
+          "2026-10-13"
+        ],
+        [
+          "70050000081239",
+          "暂无",
+          "《海綿寶寶：海洋巨頭之亂》 - Search for SquarePants DLC",
+          "2026-10-13"
+        ],
+        [
+          "70050000081240",
+          "暂无",
+          "《海綿寶寶：海洋巨頭之亂》- Plankton's Portal Challenge DLC",
+          "2026-10-13"
+        ],
+        [
+          "70050000081241",
+          "暂无",
+          "《海綿寶寶：海洋巨頭之亂》- 渾然天成服裝包 (Natural Costume Pack)",
+          "2026-10-13"
+        ]
+      ]
+    }
   ],
   "70010000119030": [
     "04007FD027432000",
@@ -123046,6 +123080,12 @@
     "The Last Cat in the Universe 宇宙中最後一隻貓",
     "2026-10-29",
     "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000136066": [
+    "01002C4029876000",
+    "Hokko Spaces",
+    "2026-10-30",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000095059": [
     "0100A38022D0C000",
