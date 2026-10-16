@@ -9857,7 +9857,7 @@
     "0100B490113C8000",
     "Arcade Archives VS. WRECKING CREW",
     "2020-05-01",
-    "Japanese, Italian, English, French, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian"
   ],
   "70010000011348": [
     "010022600A79A000",
@@ -78093,6 +78093,12 @@
           "暂无",
           "普羅旺斯",
           "2026-08-19"
+        ],
+        [
+          "70050000081937",
+          "暂无",
+          "蔚藍海岸",
+          "2026-10-16"
         ]
       ]
     }
@@ -89233,6 +89239,12 @@
           "暂无",
           "神秘角落",
           "2026-08-19"
+        ],
+        [
+          "70050000081915",
+          "暂无",
+          "臉紅角落",
+          "2026-10-16"
         ]
       ]
     }
@@ -113727,7 +113739,17 @@
     "0400F8D026D6A000",
     "德米歐 x 龍與地下城：戰痕 (Demeo x Dungeons & Dragons: Battlemarked)",
     "2026-06-16",
-    "English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000080386",
+          "暂无",
+          "德米歐 x 龍與地下城：戰痕 - 暮光之末 (Twilight's End)",
+          "2026-10-15"
+        ]
+      ]
+    }
   ],
   "70010000118767": [
     "04002A6027344000",
@@ -122993,6 +123015,12 @@
       ]
     }
   ],
+  "70010000121109": [
+    "0400D5302788C000",
+    "雙人成行 (It Takes Two)",
+    "2026-10-15",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
   "70010000121851": [
     "0100FA1027A72000",
     "ZapStick",
@@ -123339,7 +123367,17 @@
     "04009480266D0000",
     "Resident Evil 2 Deluxe Edition",
     "2026-10-16",
-    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000080702",
+          "暂无",
+          "Resident Evil 2 遊戲內所有獎勵皆解除鎖定",
+          "2026-10-16"
+        ]
+      ]
+    }
   ],
   "70010000115468": [
     "0100B04026946000",
@@ -123351,13 +123389,93 @@
     "04000DE027BEC000",
     "Resident Evil 3",
     "2026-10-16",
-    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000080708",
+          "暂无",
+          "Resident Evil 3 遊戲獎勵全解鎖",
+          "2026-10-16"
+        ]
+      ]
+    }
   ],
   "70010000122499": [
     "04002B1027BF2000",
     "Resident Evil 4 Gold Edition",
     "2026-10-16",
-    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000080590",
+          "暂无",
+          "Resident Evil 4 武器專屬強化券 x1 (A)",
+          "2026-10-16"
+        ],
+        [
+          "70050000080591",
+          "暂无",
+          "Resident Evil 4 武器專屬強化券 x1 (B)",
+          "2026-10-16"
+        ],
+        [
+          "70050000080592",
+          "暂无",
+          "Resident Evil 4 武器專屬強化券 x1 (C)",
+          "2026-10-16"
+        ],
+        [
+          "70050000080593",
+          "暂无",
+          "Resident Evil 4 武器專屬強化券 x1 (D)",
+          "2026-10-16"
+        ],
+        [
+          "70050000080594",
+          "暂无",
+          "Resident Evil 4 武器專屬強化券 x1 (E)",
+          "2026-10-16"
+        ],
+        [
+          "70050000080595",
+          "暂无",
+          "Resident Evil 4 武器專屬強化券 x1 (F)",
+          "2026-10-16"
+        ],
+        [
+          "70050000080596",
+          "暂无",
+          "Resident Evil 4 武器專屬強化券 x3 (A)",
+          "2026-10-16"
+        ],
+        [
+          "70050000080597",
+          "暂无",
+          "Resident Evil 4 武器專屬強化券 x3 (B)",
+          "2026-10-16"
+        ],
+        [
+          "70050000080598",
+          "暂无",
+          "Resident Evil 4 武器專屬強化券 x3 (C)",
+          "2026-10-16"
+        ],
+        [
+          "70050000080599",
+          "暂无",
+          "Resident Evil 4 武器專屬強化券 x3 (D)",
+          "2026-10-16"
+        ],
+        [
+          "70050000080600",
+          "暂无",
+          "Resident Evil 4 武器專屬強化券 x5 (A)",
+          "2026-10-16"
+        ]
+      ]
+    }
   ],
   "70010000103440": [
     "040051B024C46000",
