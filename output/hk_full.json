@@ -57635,6 +57635,12 @@
           "暂无",
           "自我照顧包",
           "2026-07-15"
+        ],
+        [
+          "70050000082241",
+          "暂无",
+          "游泳池包",
+          "2026-10-17"
         ]
       ]
     }
@@ -101489,7 +101495,17 @@
     "010084202447E000",
     "Doki Monsters Quest",
     "2025-11-27",
-    "English, Japanese, Portuguese, Spanish"
+    "English, Japanese, Portuguese, Spanish",
+    {
+      "dlcs": [
+        [
+          "70050000082231",
+          "暂无",
+          "偉大小仙子島",
+          "2026-10-17"
+        ]
+      ]
+    }
   ],
   "70010000101782": [
     "01004E3024786000",
@@ -114057,6 +114073,12 @@
           "暂无",
           "塗色大師 : 像素夢想家 迷你圖案 - 花 2 (Pixel Cross Stitch Color by Number: Miniatures - Flowers 2)",
           "2026-08-29"
+        ],
+        [
+          "70050000082270",
+          "暂无",
+          "塗色大師 : 像素夢想家 迷你圖案 - 暑假迷你模型 (Pixel Cross Stitch Color by Number: Miniatures - Vacation Minis)",
+          "2026-10-17"
         ]
       ]
     }
