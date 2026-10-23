@@ -3093,13 +3093,13 @@
     "01000D70049BE000",
     "保衛者之劍",
     "2020-06-18",
-    "Traditional Chinese, Simplified Chinese, Japanese, English"
+    "Japanese, English, Simplified Chinese, Traditional Chinese"
   ],
   "70010000027085": [
     "01005BD010872000",
     "女神異聞錄５ 亂戰：魅影攻手",
     "2020-06-18",
-    "Traditional Chinese"
+    "Chinese"
   ],
   "70010000027624": [
     "010039F010E14000",
@@ -3153,13 +3153,13 @@
     "0100DBF01000A000",
     "《橫衝直撞：狂飆樂園》重製版",
     "2020-06-19",
-    "Japanese, Italian, English, French, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian"
   ],
   "70010000030297": [
     "0100865011CBC000",
     "Arcade Archives VS. BASEBALL",
     "2020-06-19",
-    "Japanese, Italian, English, French, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian"
   ],
   "70010000027335": [
     "0100E44010B64000",
@@ -3171,7 +3171,7 @@
     "0100CCD0073EA000",
     "Ninjala",
     "2020-06-24",
-    "English, Korean, Simplified Chinese, French, Traditional Chinese, German, Spanish, Japanese, Italian"
+    "Japanese, English, Spanish, French, German, Italian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000029792": [
     "010012B011AB2000",
@@ -63515,6 +63515,12 @@
     "2026-10-22",
     "Korean, Simplified Chinese, Traditional Chinese"
   ],
+  "70010000118562": [
+    "040071C0265DA000",
+    "PEAK",
+    "2026-10-22",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
   "70010000119197": [
     "0100430027482000",
     "Entwined: Strings of Deception",
@@ -64001,6 +64007,12 @@
     "2026-11-05",
     "English, French, German, Japanese, Korean, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000099313": [
+    "0100124023E64000",
+    "Faraway",
+    "2026-11-05",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
   "70010000116352": [
     "04004A3026D72000",
     "Godzilla: Destroy All Monsters Melee Remastered",
@@ -64046,6 +64058,12 @@
   "70010000129885": [
     "01001BB028E98000",
     "Cat-Astrophy",
+    "2026-11-05",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000131184": [
+    "040007202925E000",
+    "Faraway",
     "2026-11-05",
     "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
