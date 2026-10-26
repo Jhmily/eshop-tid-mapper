@@ -3165,7 +3165,7 @@
     "0100E44010B64000",
     "戶外釣魚：公路旅行冒險",
     "2020-06-24",
-    "Japanese, Korean, Simplified Chinese, English, Traditional Chinese"
+    "Japanese, English, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000029609": [
     "0100CCD0073EA000",
@@ -3177,19 +3177,19 @@
     "010012B011AB2000",
     "終結降臨 (Death Come True)",
     "2020-06-24",
-    "Japanese, Korean, Italian, Simplified Chinese, English, Traditional Chinese, French, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000032448": [
     "010072400E04A000",
     "[Pokémon Café Mix]歡迎光臨！寶可夢咖啡店 ～拌拌繽紛趣～",
     "2020-06-24",
-    "Japanese, Korean, Italian, English, Traditional Chinese, French, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian, Korean, Chinese"
   ],
   "70010000011865": [
     "0100A0800B83A000",
     "元氣騎士",
     "2020-06-25",
-    "Japanese, Korean, Simplified Chinese, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish"
+    "Japanese, English, Spanish, French, German, Portuguese, Russian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000022342": [
     "010018D00F19C000",
@@ -32961,7 +32961,7 @@
     "0100A9E01AE9A000",
     "Stumble Guys",
     "2024-08-20",
-    "Japanese, English, Portuguese, Spanish, French, German, Italian, Dutch, Russian, Korean, Thai, Polish"
+    "German, Korean, Dutch, Italian, Portuguese, Japanese, French, Spanish, Russian, English"
   ],
   "70010000054297": [
     "01006150186A8000",
@@ -63791,6 +63791,12 @@
     "2026-10-22",
     "English, Japanese, Spanish"
   ],
+  "70010000136556": [
+    "0100E7602A08A000",
+    "TOKYO WANTED",
+    "2026-10-25",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
   "70010000134744": [
     "040083A029C0E000",
     "BURGGEIST for Nintendo Switch 2",
@@ -64000,6 +64006,18 @@
     "Hokko Spaces",
     "2026-10-30",
     "English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000133847": [
+    "01004C80299B6000",
+    "Look Outside",
+    "2026-10-31",
+    "English"
+  ],
+  "70010000133853": [
+    "040041B0299B8000",
+    "Look Outside",
+    "2026-10-31",
+    "English"
   ],
   "70010000095059": [
     "0100A38022D0C000",
