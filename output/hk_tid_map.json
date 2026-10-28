@@ -3219,7 +3219,7 @@
     "0100ABB00E352000",
     "Arcade Archives Wiz",
     "2020-06-25",
-    "Japanese, Italian, English, French, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian"
   ],
   "70010000031077": [
     "010062200D392000",
@@ -64162,6 +64162,12 @@
     "Geode Cave",
     "2026-11-05",
     "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Traditional Chinese"
+  ],
+  "70010000093511": [
+    "01005FF02261A000",
+    "a pet shop after dark",
+    "2026-11-12",
+    "English, French, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000099403": [
     "01006A9023EAA000",
