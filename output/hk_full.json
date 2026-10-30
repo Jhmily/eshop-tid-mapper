@@ -12341,7 +12341,7 @@
     "0100043011CEC000",
     "Arcade Archives LIGHTNING FIGHTERS",
     "2020-08-20",
-    "Japanese, English, Spanish, French, German, Italian"
+    "Japanese, Italian, English, French, German, Spanish"
   ],
   "70010000030648": [
     "010016E011EFA000",
@@ -74139,7 +74139,7 @@
     "0100DFF01ED44000",
     "《NBA 2K25》",
     "2024-09-06",
-    "English, French, German, Italian, Japanese, Korean, Simplified Chinese, Spanish, Traditional Chinese"
+    "Japanese, English, Spanish, French, German, Italian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000067440": [
     "0100FED01B726000",
@@ -115307,7 +115307,17 @@
     "0400C22026E48000",
     "《Escape the Backrooms》",
     "2026-07-07",
-    "English, French, German, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+    "English, French, German, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000080644",
+          "暂无",
+          "失物招領造型包",
+          "2026-10-29"
+        ]
+      ]
+    }
   ],
   "70010000084203": [
     "010062E01FE0C000",
@@ -118677,7 +118687,17 @@
     "04006D1023DB6000",
     "熔爐密林 （Rotwood)",
     "2026-08-27",
-    "English, French, German, Italian, Japanese, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+    "English, French, German, Italian, Japanese, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000081341",
+          "暂无",
+          "熔爐密林：爪克龍劍甲包 (Rotwood: Drakin Armoury Pack)",
+          "2026-10-30"
+        ]
+      ]
+    }
   ],
   "70010000104671": [
     "01002F70250B6000",
@@ -124657,7 +124677,17 @@
     "01002C4029876000",
     "Hokko Spaces",
     "2026-10-30",
-    "English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000081650",
+          "暂无",
+          "Hokko Spaces - Lei's Beachside Pack",
+          "2026-10-30"
+        ]
+      ]
+    }
   ],
   "70010000133847": [
     "01004C80299B6000",
