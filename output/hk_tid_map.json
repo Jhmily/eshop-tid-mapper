@@ -3573,7 +3573,7 @@
     "0100ED2010292000",
     "微光閃爍（Gleamlight）",
     "2020-08-20",
-    "Japanese, Korean, Italian, Simplified Chinese, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish"
+    "Japanese, English, Spanish, French, Portuguese, German, Italian, Russian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000026793": [
     "01004B001058C000",
@@ -3603,19 +3603,19 @@
     "0100043011CEC000",
     "Arcade Archives LIGHTNING FIGHTERS",
     "2020-08-20",
-    "Japanese, Italian, English, French, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian"
   ],
   "70010000030648": [
     "010016E011EFA000",
     "諾曼的巨大幻覺(Norman's Great Illusion)",
     "2020-08-20",
-    "Russian, English"
+    "English, Russian"
   ],
   "70010000032261": [
     "010000001260E000",
     "童趣：給農場塗色吧 (KIDS: FARM COLOURING)",
     "2020-08-20",
-    "Italian, Dutch, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish"
+    "English, Spanish, French, German, Italian, Dutch, Portuguese, Russian, Chinese"
   ],
   "70010000032736": [
     "010059801292A000",
@@ -3639,7 +3639,7 @@
     "010046F012A04000",
     "中國式家長",
     "2020-08-20",
-    "Traditional Chinese, Simplified Chinese, Japanese, English"
+    "Japanese, English, Simplified Chinese, Traditional Chinese"
   ],
   "70010000028539": [
     "010053401147C000",
@@ -64169,6 +64169,12 @@
     "2026-10-29",
     "English, French, German, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000124331": [
+    "0400F2B0280A2000",
+    " Avatar Legends: The Fighting Game",
+    "2026-10-30",
+    "English, French, German, Italian, Portuguese, Spanish"
+  ],
   "70010000127321": [
     "0100C000288E6000",
     "Asylum",
@@ -64186,6 +64192,12 @@
     "Hokko Spaces",
     "2026-10-30",
     "English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000132472": [
+    "010024A0295D8000",
+    "Zombuffoonery",
+    "2026-10-31",
+    "English, French, German, Italian, Japanese, Portuguese, Russian, Spanish"
   ],
   "70010000133847": [
     "01004C80299B6000",
@@ -64366,6 +64378,12 @@
     "Geode Cave",
     "2026-11-05",
     "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Traditional Chinese"
+  ],
+  "70010000130919": [
+    "01006320291BA000",
+    "Shelterra the Skyworld",
+    "2026-11-06",
+    "English, Japanese"
   ],
   "70010000116417": [
     "0400107026DA2000",
@@ -64606,6 +64624,12 @@
     "亞路塔：狐狸狐途的麵包冒險",
     "2026-12-09",
     "English, Japanese, Korean, Simplified Chinese, Traditional Chinese"
+  ],
+  "70010000136975": [
+    "0400CFD024FFC000",
+    "進擊的巨人３",
+    "2026-12-10",
+    "English, French, German, Italian, Japanese, Korean, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000112022": [
     "040089402611E000",
