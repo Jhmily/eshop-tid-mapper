@@ -99713,6 +99713,12 @@
           "暂无",
           "雙點博物館：藝想天開",
           "2026-06-18"
+        ],
+        [
+          "70050000081756",
+          "暂无",
+          "雙點博物館：失落遊樂園",
+          "2026-11-05"
         ]
       ]
     }
@@ -123975,7 +123981,17 @@
     "040051B024C46000",
     "決勝時刻® (Call of Duty)",
     "2026-10-17",
-    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000081619",
+          "暂无",
+          "《決勝時刻®：現代戰域™》内容包1",
+          "2026-11-06"
+        ]
+      ]
+    }
   ],
   "70010000102760": [
     "010029A024AD8000",
