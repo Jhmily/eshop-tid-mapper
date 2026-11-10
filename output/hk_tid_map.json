@@ -4083,7 +4083,7 @@
     "01002F0011DD4000",
     "硬核機甲",
     "2020-10-15",
-    "Japanese, Korean, Simplified Chinese, English, Traditional Chinese, French, Russian"
+    "Japanese, English, French, Russian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000032488": [
     "0100AFC01274C000",
@@ -4125,7 +4125,7 @@
     "0100F090122D2000",
     "Ring of Pain",
     "2020-10-15",
-    "Japanese, Korean, Simplified Chinese, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish"
+    "Japanese, English, Spanish, Portuguese, French, German, Russian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000012351": [
     "0100ED100BA3A000",
@@ -65038,6 +65038,12 @@
     "Monster Hunter Wilds",
     "2026-12-04",
     "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000115536": [
+    "0400428026AF4000",
+    "Mouse Work",
+    "2026-12-07",
+    "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000080764": [
     "01003F501F012000",
