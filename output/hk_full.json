@@ -94769,7 +94769,17 @@
     "0100F31024666000",
     "Knightica",
     "2025-08-22",
-    "English, French, German, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+    "English, French, German, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000081629",
+          "暂无",
+          "Knightica - Faraway Tales",
+          "2026-11-13"
+        ]
+      ]
+    }
   ],
   "70010000100582": [
     "0100194024364000",
