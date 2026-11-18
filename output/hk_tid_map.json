@@ -4587,7 +4587,7 @@
     "0100628012C58000",
     "One Dog Story",
     "2020-11-19",
-    "Japanese, English, Spanish, French, German, Russian, Korean"
+    "Japanese, Korean, English, French, Russian, German, Spanish"
   ],
   "70010000034495": [
     "0100B38013118000",
@@ -4617,7 +4617,7 @@
     "0100EFF0137DA000",
     "Arcade Archives ZERO TEAM",
     "2020-11-19",
-    "Japanese, English, Spanish, French, German, Italian"
+    "Japanese, Italian, English, French, German, Spanish"
   ],
   "70010000036073": [
     "0100E0C0138F4000",
@@ -19131,7 +19131,7 @@
     "010039501405E000",
     "Blanc　白雪歸途",
     "2023-02-16",
-    "English, French, German, Italian, Japanese, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+    "Italian, Portuguese, Spanish, English, French, Traditional Chinese, German, Simplified Chinese, Japanese"
   ],
   "70010000047264": [
     "010074201698A000",
@@ -34311,7 +34311,7 @@
     "010050401D0C8000",
     "一鵝當先",
     "2024-10-03",
-    "Italian, Korean, English, Spanish, Traditional Chinese, Japanese, German, French, Portuguese, Russian, Simplified Chinese"
+    "Italian, Russian, Simplified Chinese, English, Spanish, Traditional Chinese, French, Korean, Japanese, Portuguese, German"
   ],
   "70010000076267": [
     "01004EF01DD22000",
@@ -65380,6 +65380,12 @@
     "勇者鬥惡龍怪物仙境4 枯木國的碧安卡與芙蘿拉",
     "2026-12-03",
     "Italian, German, Japanese, Simplified Chinese, Traditional Chinese, French, Korean, Spanish, English"
+  ],
+  "70010000111545": [
+    "04003B8026092000",
+    "《雷射超人：傳奇重述》 - Rayman Legends Retold",
+    "2026-12-03",
+    "Simplified Chinese, English, Dutch, German, Italian, Portuguese, French, Traditional Chinese, Russian, Japanese, Spanish"
   ],
   "70010000118761": [
     "040053B027374000",
