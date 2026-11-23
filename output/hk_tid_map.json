@@ -5109,7 +5109,7 @@
     "01003A4001DD4000",
     "Arcade Archives Shanghai III",
     "2020-12-31",
-    "Japanese, Italian, English, French, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian"
   ],
   "70010000022666": [
     "01009CD00F44A000",
@@ -65828,6 +65828,12 @@
   "70010000102605": [
     "04000D2024A7C000",
     "Monster Hunter Wilds",
+    "2026-12-04",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000143132": [
+    "04006BE02B260000",
+    "Aeterna Lucis",
     "2026-12-04",
     "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
