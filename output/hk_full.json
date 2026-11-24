@@ -16417,7 +16417,7 @@
     "010079D00C8AE000",
     "Klondike Solitaire - 接龍",
     "2021-01-07",
-    "Japanese, Korean, Italian, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish"
+    "Japanese, English, Spanish, French, Portuguese, German, Italian, Russian, Korean, Chinese"
   ],
   "70010000028789": [
     "010071C00982C000",
@@ -127174,6 +127174,22 @@
     "Armatus",
     "2027-01-08",
     "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000122271": [
+    "0100DEA027B76000",
+    "Terranigma",
+    "2027-01-14",
+    "English, French, German, Japanese, Spanish",
+    {
+      "dlcs": [
+        [
+          "70050000085399",
+          "暂无",
+          "Terranigma Nintendo Switch 2 Edition升級通行證",
+          "2027-01-14"
+        ]
+      ]
+    }
   ],
   "70010000143383": [
     "010098502B2C2000",
