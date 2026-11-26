@@ -16381,7 +16381,7 @@
     "01009CD00F44A000",
     "Sense - 不祥的預感: A Cyberpunk Ghost Story",
     "2021-01-07",
-    "Russian, Traditional Chinese, Simplified Chinese, English"
+    "English, Russian, Simplified Chinese, Traditional Chinese"
   ],
   "70010000035196": [
     "010068E013450000",
@@ -16393,7 +16393,7 @@
     "01002C20135C0000",
     "Cloudpunk",
     "2021-01-07",
-    "Japanese, Korean, Italian, Simplified Chinese, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish"
+    "Japanese, English, Portuguese, Spanish, French, German, Italian, Russian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000037102": [
     "0100DCD013CDA000",
@@ -16423,25 +16423,25 @@
     "010071C00982C000",
     "Arcade Archives Cosmo Police Galivan",
     "2021-01-14",
-    "Japanese, Italian, English, French, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian"
   ],
   "70010000033565": [
     "0100B80012C1E000",
     "The Pillar: Puzzle Escape",
     "2021-01-14",
-    "Japanese, Korean, Italian, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian, Portuguese, Russian, Korean, Chinese"
   ],
   "70010000033734": [
     "0100729012D18000",
     "節奏快打 (Rhythm Fighter)",
     "2021-01-14",
-    "Traditional Chinese, Simplified Chinese, Japanese, English"
+    "Japanese, English, Simplified Chinese, Traditional Chinese"
   ],
   "70010000034086": [
     "0100B6E012EBE000",
     "UNO™",
     "2021-01-14",
-    "Japanese, Italian, Dutch, English, Portuguese, French, Russian, German, Spanish",
+    "Japanese, English, Portuguese, Spanish, French, German, Italian, Dutch, Russian",
     {
       "dlcs": [
         [
@@ -16541,7 +16541,7 @@
     "0100B4D01303C000",
     "EPHEMERAL -FANTASY ON DARK-",
     "2021-01-21",
-    "German, Japanese, French, English"
+    "Japanese, English, French, German"
   ],
   "70010000034589": [
     "0100A9001317E000",
@@ -16553,13 +16553,13 @@
     "01001A201331E000",
     "Neoverse Trinity Edition",
     "2021-01-21",
-    "Japanese, Korean, Italian, Simplified Chinese, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish"
+    "Japanese, English, Spanish, Portuguese, French, German, Italian, Russian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000036572": [
     "01009E7013B2C000",
     "Arcade Archives BLOCK HOLE",
     "2021-01-21",
-    "Japanese, Italian, English, French, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian"
   ],
   "70010000037602": [
     "01009020135FE000",
@@ -16571,7 +16571,7 @@
     "0100830008426000",
     "Just Shapes & Beats",
     "2021-01-21",
-    "Japanese, Korean, Italian, Simplified Chinese, English, Traditional Chinese, French, Russian, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian, Russian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000037825": [
     "0100400013A46000",
@@ -16589,25 +16589,25 @@
     "0100B010114E4000",
     "Breakpoint",
     "2021-01-21",
-    "Japanese, Korean, Italian, Dutch, Simplified Chinese, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish"
+    "Japanese, English, Portuguese, Spanish, French, German, Italian, Dutch, Russian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000038018": [
     "0100C1F0141AA000",
     "Cyber Shadow",
     "2021-01-26",
-    "Japanese, Korean, Italian, Simplified Chinese, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish"
+    "Japanese, English, Portuguese, Spanish, French, German, Italian, Russian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000027374": [
     "0100FD0010BD8000",
     "Re：從零開始的異世界生活 虛假的王選候補",
     "2021-01-28",
-    "Traditional Chinese, Simplified Chinese, Japanese"
+    "Japanese, Simplified Chinese, Traditional Chinese"
   ],
   "70010000033032": [
     "0100D9C012900000",
     "Citizens Unite!: Earth x Space",
     "2021-01-28",
-    "Japanese, Italian, English, French, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian"
   ],
   "70010000033070": [
     "0100E67012924000",
@@ -16683,13 +16683,13 @@
     "0100EC5012BDE000",
     "Project Starship X",
     "2021-01-28",
-    "Italian, Japanese, English"
+    "Japanese, English, Italian"
   ],
   "70010000033871": [
     "01001B2012D5E000",
     "童話森林",
     "2021-01-28",
-    "Japanese, Korean, Simplified Chinese, English, Traditional Chinese"
+    "Japanese, English, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000034746": [
     "01009D901321A000",
@@ -16701,13 +16701,13 @@
     "0100047013378000",
     "少女☆射擊 回歸初心",
     "2021-01-28",
-    "Traditional Chinese, Japanese, Korean, English"
+    "Japanese, English, Korean, Chinese"
   ],
   "70010000035242": [
     "01002ED013480000",
     "失落領域",
     "2021-01-28",
-    "Japanese, Korean, English, Traditional Chinese, French, German"
+    "Japanese, English, French, German, Korean, Chinese"
   ],
   "70010000035683": [
     "01008BE0136C2000",
@@ -16719,13 +16719,13 @@
     "01007DE013A48000",
     "黃金特戰隊 (Golden Force)",
     "2021-01-28",
-    "French, English"
+    "English, French"
   ],
   "70010000036520": [
     "01006F9013B04000",
     "Arcade Archives HALLEY'S COMET",
     "2021-01-28",
-    "Japanese, Italian, English, French, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian"
   ],
   "70010000037265": [
     "0100F54013E14000",
@@ -16755,7 +16755,7 @@
     "0100F92005D54000",
     "Swim Out",
     "2021-01-28",
-    "Japanese, Korean, Italian, Dutch, Simplified Chinese, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish"
+    "Japanese, English, Spanish, French, Portuguese, German, Italian, Dutch, Russian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000038248": [
     "01008F8013BD0000",
@@ -16767,13 +16767,13 @@
     "0100E4701355C000",
     "死靈法師之劍 (Sword of the Necromancer)",
     "2021-01-28",
-    "Japanese, Italian, English, French, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian"
   ],
   "70010000011031": [
     "0100F4700B2E0000",
     "《夜勤人》（Moonlighter)",
     "2021-02-04",
-    "Japanese, Korean, Italian, Simplified Chinese, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish",
+    "Japanese, English, Portuguese, Spanish, French, German, Italian, Russian, Korean, Simplified Chinese, Traditional Chinese",
     {
       "dlcs": [
         [
@@ -16789,7 +16789,7 @@
     "01008DA012EC0000",
     "Shakes on a Plane",
     "2021-02-04",
-    "Japanese, Korean, Italian, Dutch, Simplified Chinese, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish"
+    "Japanese, English, Spanish, Portuguese, French, German, Italian, Dutch, Russian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000036562": [
     "0100E3D013B28000",
@@ -16801,7 +16801,7 @@
     "010087000FD2A000",
     "Station Manager",
     "2021-02-04",
-    "Japanese, Korean, Simplified Chinese, English, Traditional Chinese",
+    "Japanese, English, Korean, Thai, Simplified Chinese, Traditional Chinese",
     {
       "dlcs": [
         [
@@ -16823,7 +16823,7 @@
     "0100DEC00F7EC000",
     "Pizza Bar Tycoon 披薩吧大亨",
     "2021-02-04",
-    "Japanese, Korean, Italian, English, Portuguese, Traditional Chinese, French, German, Spanish",
+    "Japanese, English, Spanish, French, Portuguese, German, Italian, Korean, Chinese",
     {
       "dlcs": [
         [
@@ -16855,9 +16855,9 @@
   ],
   "70010000038408": [
     "010003700F800000",
-    "#Funtime ",
+    "#Funtime",
     "2021-02-04",
-    "Japanese, Korean, Italian, Dutch, Simplified Chinese, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish"
+    "Japanese, English, Portuguese, Spanish, French, German, Italian, Dutch, Russian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000038484": [
     "01005840143D2000",
@@ -16875,7 +16875,7 @@
     "010097100EDD6000",
     "小小夢魘2 (Little Nightmares II)",
     "2021-02-10",
-    "Portuguese, Italian, Traditional Chinese, German, English, Japanese, Korean, Simplified Chinese, Spanish, Russian, French",
+    "Japanese, English, Spanish, Portuguese, French, German, Italian, Russian, Korean, Simplified Chinese, Traditional Chinese",
     {
       "dlcs": [
         [
@@ -16897,31 +16897,31 @@
     "010017001157A000",
     "Super Meat Boy",
     "2021-02-10",
-    "Japanese, Korean, Italian, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian, Portuguese, Russian, Korean, Chinese"
   ],
   "70010000035035": [
     "0100E0001338C000",
     "#SinucaAttack",
     "2021-02-11",
-    "Italian, English, Portuguese, French, German, Spanish"
+    "English, Spanish, French, Portuguese, German, Italian"
   ],
   "70010000037340": [
     "01004E4013E62000",
     "Arcade Archives THUNDER CROSS",
     "2021-02-11",
-    "Japanese, Italian, English, French, German, Spanish"
+    "Japanese, English, Spanish, French, German, Italian"
   ],
   "70010000034442": [
     "010028600EBDA000",
     "超級瑪利歐 ３Ｄ世界 ＋ 狂怒世界",
     "2021-02-12",
-    "Russian, Spanish, English, German, Simplified Chinese, Dutch, Portuguese, Italian, Traditional Chinese, Japanese, French, Korean"
+    "Japanese, English, Spanish, French, German, Italian, Dutch, Portuguese, Russian, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000034731": [
     "01001E0013208000",
     "Capcom Arcade Stadium",
     "2021-02-18",
-    "Japanese, Korean, Italian, Simplified Chinese, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish",
+    "Japanese, English, Portuguese, Spanish, French, German, Italian, Russian, Korean, Simplified Chinese, Traditional Chinese",
     {
       "dlcs": [
         [
@@ -17129,7 +17129,7 @@
     "010008A0137D6000",
     "Pachi Pachi On a Roll",
     "2021-02-18",
-    "Traditional Chinese, Japanese, Korean, English"
+    "Japanese, English, Korean, Chinese"
   ],
   "70010000035878": [
     "010027D0137E0000",
@@ -17147,7 +17147,7 @@
     "0100ADF01388C000",
     "瘋狂的奧茜",
     "2021-02-18",
-    "Japanese, Italian, Simplified Chinese, English, Portuguese, Traditional Chinese, French, Russian, German, Spanish"
+    "Japanese, English, Portuguese, Spanish, French, German, Italian, Russian, Simplified Chinese, Traditional Chinese"
   ],
   "70010000036208": [
     "01000540139F6000",
@@ -17171,7 +17171,7 @@
     "010045900F1FC000",
     "紙人 : 第一章（Paper Dolls Original）",
     "2021-02-18",
-    "Japanese, Korean, Simplified Chinese, English, Traditional Chinese"
+    "Japanese, English, Korean, Simplified Chinese, Traditional Chinese"
   ],
   "70010000037077": [
     "0100743013D56000",
@@ -63655,6 +63655,12 @@
           "0100DF001C523003",
           "Drift Master Simulator 2024 - 4 Ultimate Cars Pack",
           "2025-04-17"
+        ],
+        [
+          "70050000085407",
+          "暂无",
+          "Drift Master Simulator 2024: Drift Fortune",
+          "2026-11-26"
         ]
       ]
     }
@@ -66285,6 +66291,12 @@
           "暂无",
           "Stunt Scooter Simulator: Dual Ride",
           "2026-11-05"
+        ],
+        [
+          "70050000085138",
+          "暂无",
+          "Stunt Scooter Simulator: Golden Ride",
+          "2026-11-26"
         ]
       ]
     }
@@ -80371,6 +80383,12 @@
           "01005EA0163BF002",
           "Restaurant Tycoon: My Cooking Empire - Cozy Living",
           "2025-10-30"
+        ],
+        [
+          "70050000084975",
+          "暂无",
+          "Restaurant Tycoon: My Cooking Empire - Seasons Pack",
+          "2026-11-26"
         ]
       ]
     }
@@ -87347,6 +87365,12 @@
           "暂无",
           "Squirrel Madness: Nut Boost",
           "2026-07-09"
+        ],
+        [
+          "70050000085157",
+          "暂无",
+          "Squirrel Madness: Wild Skies",
+          "2026-11-26"
         ]
       ]
     }
@@ -88073,7 +88097,17 @@
     "01006C1022A26000",
     "Call of Glory - Critical Warfare",
     "2025-05-22",
-    "English"
+    "English",
+    {
+      "dlcs": [
+        [
+          "70050000085232",
+          "暂无",
+          "Call of Glory - Critical Warfare: Elite Combat Weapon Pack",
+          "2026-11-26"
+        ]
+      ]
+    }
   ],
   "70010000094499": [
     "01005BF022A86000",
@@ -102555,6 +102589,18 @@
           "010077701D773005",
           "Bowling Fever 保齡狂潮 Expansion Pack #5",
           "2025-12-04"
+        ],
+        [
+          "70050000084990",
+          "暂无",
+          "Bowling Fever 保齡狂潮 Expansion Pack #6",
+          "2026-11-26"
+        ],
+        [
+          "70050000084991",
+          "暂无",
+          "Bowling Fever 保齡狂潮 Expansion Pack #7",
+          "2026-11-26"
         ]
       ]
     }
@@ -104015,6 +104061,12 @@
           "暂无",
           "Firefighting Rescue Simulator: Truck Style",
           "2026-10-22"
+        ],
+        [
+          "70050000085165",
+          "暂无",
+          "Firefighting Rescue Simulator: Base Makeover",
+          "2026-11-26"
         ]
       ]
     }
@@ -105933,7 +105985,17 @@
     "0100D8B02552E000",
     "USA ARMY SOLDIER SIMULATOR",
     "2026-02-05",
-    "English"
+    "English",
+    {
+      "dlcs": [
+        [
+          "70050000085145",
+          "暂无",
+          "USA ARMY SOLDIER SIMULATOR: Military Starter Fund",
+          "2026-11-26"
+        ]
+      ]
+    }
   ],
   "70010000106265": [
     "010068F0255DC000",
@@ -106339,6 +106401,12 @@
           "0100EDC02609B004",
           "Damage x2 - Dragon Spira",
           "2026-02-06"
+        ],
+        [
+          "70050000085448",
+          "暂无",
+          "Dragon Spira - Nintendo Switch 2 Edition升級通行證",
+          "2026-11-26"
         ]
       ]
     }
@@ -114067,6 +114135,12 @@
           "暂无",
           "Serious Carnage - Adrenaline Shooter: Special Weapon Edition",
           "2026-11-05"
+        ],
+        [
+          "70050000085219",
+          "暂无",
+          "Serious Carnage - Adrenaline Shooter: Rapid Movement Pack",
+          "2026-11-26"
         ]
       ]
     }
@@ -126593,6 +126667,110 @@
     "2026-11-23",
     "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000141461": [
+    "010043A025472000",
+    "大戰略SSB2 (Daisenryaku SSB 2)",
+    "2026-11-25",
+    "English, Japanese, Simplified Chinese, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000085115",
+          "暂无",
+          "大戰略SSB2 - 「英國」兵器、地圖、BGM組合包",
+          "2026-11-25"
+        ],
+        [
+          "70050000085118",
+          "暂无",
+          "大戰略SSB2 - 「伊朗」兵器、地圖、BGM組合包",
+          "2026-11-25"
+        ],
+        [
+          "70050000085120",
+          "暂无",
+          "大戰略SSB2 - 「瑞典」兵器、地圖、BGM組合包",
+          "2026-11-25"
+        ],
+        [
+          "70050000085121",
+          "暂无",
+          "大戰略SSB2 - 「法國」兵器、地圖、BGM組合包",
+          "2026-11-25"
+        ],
+        [
+          "70050000085352",
+          "暂无",
+          "大戰略SSB2 - 「印度」兵器、地圖、BGM組合包",
+          "2026-11-25"
+        ],
+        [
+          "70050000085353",
+          "暂无",
+          "大戰略SSB2 - 「澳大利亞」兵器、地圖、BGM組合包",
+          "2026-11-25"
+        ],
+        [
+          "70050000085354",
+          "暂无",
+          "大戰略SSB2 - 強化包",
+          "2026-11-25"
+        ]
+      ]
+    }
+  ],
+  "70010000141466": [
+    "04008D9025474000",
+    "大戰略SSB2 (Daisenryaku SSB 2)",
+    "2026-11-25",
+    "English, Japanese, Simplified Chinese, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000085340",
+          "暂无",
+          "大戰略SSB2 - 「英國」兵器、地圖、BGM組合包",
+          "2026-11-25"
+        ],
+        [
+          "70050000085341",
+          "暂无",
+          "大戰略SSB2 - 「伊朗」兵器、地圖、BGM組合包",
+          "2026-11-25"
+        ],
+        [
+          "70050000085342",
+          "暂无",
+          "大戰略SSB2 - 「瑞典」兵器、地圖、BGM組合包",
+          "2026-11-25"
+        ],
+        [
+          "70050000085343",
+          "暂无",
+          "大戰略SSB2 - 「法國」兵器、地圖、BGM組合包",
+          "2026-11-25"
+        ],
+        [
+          "70050000085347",
+          "暂无",
+          "大戰略SSB2 - 強化包",
+          "2026-11-25"
+        ],
+        [
+          "70050000085348",
+          "暂无",
+          "大戰略SSB2 - 「澳大利亞」兵器、地圖、BGM組合包",
+          "2026-11-25"
+        ],
+        [
+          "70050000085349",
+          "暂无",
+          "大戰略SSB2 - 「印度」兵器、地圖、BGM組合包",
+          "2026-11-25"
+        ]
+      ]
+    }
+  ],
   "70010000068313": [
     "0100AE701BB28000",
     "No Umbrellas Allowed",
@@ -126623,6 +126801,12 @@
     "2026-11-26",
     "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000121769": [
+    "04008B5027A3A000",
+    "Console Archives Mezase! SENKYU-OH",
+    "2026-11-26",
+    "Japanese"
+  ],
   "70010000125088": [
     "0400F910282B0000",
     "最強王圖鑑　爆裂對戰王",
@@ -126645,7 +126829,35 @@
     "01005E7028566000",
     "GT Racing Pro",
     "2026-11-26",
-    "English, French, German, Italian, Japanese, Korean, Portuguese, Spanish, Traditional Chinese"
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Spanish, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000084620",
+          "暂无",
+          "GT Racing Pro Expansion Pack #1",
+          "2026-11-26"
+        ],
+        [
+          "70050000084621",
+          "暂无",
+          "GT Racing Pro Expansion Pack #2",
+          "2026-11-26"
+        ],
+        [
+          "70050000084622",
+          "暂无",
+          "GT Racing Pro Expansion Pack #3",
+          "2026-11-26"
+        ],
+        [
+          "70050000084623",
+          "暂无",
+          "GT Racing Pro Expansion Pack #4",
+          "2026-11-26"
+        ]
+      ]
+    }
   ],
   "70010000127701": [
     "04001640289CE000",
@@ -126665,6 +126877,18 @@
     "2026-11-26",
     "English"
   ],
+  "70010000131027": [
+    "0100F850291F2000",
+    "2048 Blocks",
+    "2026-11-26",
+    "English"
+  ],
+  "70010000131328": [
+    "01001FE0292BA000",
+    "機械狂歡",
+    "2026-11-26",
+    "English, French, German, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
   "70010000132277": [
     "040082F02954A000",
     "GRIME II",
@@ -126674,6 +126898,18 @@
   "70010000132283": [
     "010003402954C000",
     "GRIME II",
+    "2026-11-26",
+    "English, French, German, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000132950": [
+    "0400508029706000",
+    "Arcade Archives 2 RAINBOW ISLANDS",
+    "2026-11-26",
+    "English, French, German, Italian, Japanese, Spanish"
+  ],
+  "70010000133614": [
+    "0100BFF02992E000",
+    "Origament - A Paper Adventure",
     "2026-11-26",
     "English, French, German, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
@@ -126689,11 +126925,29 @@
     "2026-11-26",
     "English, French, Japanese, Traditional Chinese"
   ],
+  "70010000134589": [
+    "0100676029BAE000",
+    "Arcade Archives DIRT DASH",
+    "2026-11-26",
+    "English, French, German, Italian, Japanese, Spanish"
+  ],
+  "70010000134595": [
+    "0400C7E029BB0000",
+    "Arcade Archives 2 DIRT DASH",
+    "2026-11-26",
+    "English, French, German, Italian, Japanese, Spanish"
+  ],
   "70010000134884": [
     "0400992029188000",
     "Station to Station",
     "2026-11-26",
     "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000136511": [
+    "0400C8B028F8C000",
+    "SULFUR",
+    "2026-11-26",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000137920": [
     "0100E5602A4EE000",
@@ -126706,6 +126960,12 @@
     "淘氣青春：啦啦隊少年 (Cheerleaders Boys: Naughty School Spirit)",
     "2026-11-26",
     "English, Japanese, Korean, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000138141": [
+    "010014102A57A000",
+    "Catgirls: Midnight Paradise",
+    "2026-11-26",
+    "English, Japanese, Russian"
   ],
   "70010000138331": [
     "010044B02A600000",
@@ -126731,11 +126991,29 @@
     "2026-11-26",
     "English, French, German, Italian, Japanese, Portuguese, Russian, Spanish"
   ],
+  "70010000138678": [
+    "01001A902A6EE000",
+    "Yummy Girl: Mint Whisper",
+    "2026-11-26",
+    "English, Japanese, Russian"
+  ],
   "70010000138992": [
     "0100F4D029854000",
     "Pup Champs: 汪汪冠軍盃",
     "2026-11-26",
     "English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000139206": [
+    "0100BEF02A880000",
+    "Pop Fall",
+    "2026-11-26",
+    "English"
+  ],
+  "70010000139221": [
+    "010008F02A080000",
+    "XeGrader plus",
+    "2026-11-26",
+    "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000139391": [
     "010034002A90C000",
@@ -126748,6 +127026,12 @@
     "Hadean Tactics",
     "2026-11-26",
     "English, French, German, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000140206": [
+    "01005B502AAC4000",
+    "Feral Road",
+    "2026-11-26",
+    "English, French, German, Italian, Japanese, Portuguese, Russian, Spanish"
   ],
   "70010000140293": [
     "01006C302AAF4000",
@@ -126767,6 +127051,24 @@
     "2026-11-26",
     "English, French, German, Japanese, Korean, Portuguese, Russian, Spanish"
   ],
+  "70010000140450": [
+    "010095802AB38000",
+    "Spectator 3 觀察者 3",
+    "2026-11-26",
+    "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000140705": [
+    "010054702ABE6000",
+    "Jewel Questline",
+    "2026-11-26",
+    "English"
+  ],
+  "70010000140885": [
+    "0100C1602AC5E000",
+    "Eroding World",
+    "2026-11-26",
+    "English"
+  ],
   "70010000140924": [
     "0100410029984000",
     "Astralis: Dawnblades",
@@ -126779,11 +127081,29 @@
     "2026-11-26",
     "English, Japanese"
   ],
+  "70010000141237": [
+    "01009E302AD04000",
+    "Infinite Runner",
+    "2026-11-26",
+    "English"
+  ],
   "70010000141360": [
     "010065402AD5C000",
     "JAPAN BUS SIMULATOR",
     "2026-11-26",
     "English, French, German, Japanese, Korean, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000141943": [
+    "010067502AEF2000",
+    "Gnome From Hell",
+    "2026-11-26",
+    "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000141969": [
+    "010029E02AEFA000",
+    "Mad Kid",
+    "2026-11-26",
+    "English, Portuguese, Russian, Spanish"
   ],
   "70010000142134": [
     "01006C902AF8C000",
@@ -126791,17 +127111,59 @@
     "2026-11-26",
     "English, French, German, Italian, Japanese, Portuguese, Russian, Spanish"
   ],
+  "70010000142424": [
+    "01000BF02B022000",
+    "Night Ops: Modern Assault (夜間行動：現代突擊)",
+    "2026-11-26",
+    "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000142481": [
+    "0100F3E02B036000",
+    "BODYCAMERA: Drone Edition",
+    "2026-11-26",
+    "English"
+  ],
   "70010000143110": [
     "010045902B1D2000",
     "Find the Needle",
     "2026-11-26",
     "English"
   ],
+  "70010000143743": [
+    "01001AF02B3DE000",
+    "Joy Piano: Step by Step",
+    "2026-11-26",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000144116": [
+    "0100529028FB2000",
+    "東北往事",
+    "2026-11-26",
+    "English, Japanese, Korean, Simplified Chinese, Traditional Chinese"
+  ],
   "70010000144148": [
     "0100AC402B4BE000",
     "Relaywardens",
     "2026-11-26",
     "English, French, German, Italian, Japanese, Portuguese, Russian, Spanish"
+  ],
+  "70010000144706": [
+    "01007C802B624000",
+    "Moon Cleaner",
+    "2026-11-26",
+    "English, French, German, Japanese, Russian, Spanish"
+  ],
+  "70010000144792": [
+    "010086602B67A000",
+    "密碼算術 (Crypto Math)",
+    "2026-11-26",
+    "English, French, Japanese, Korean, Russian, Simplified Chinese, Traditional Chinese"
+  ],
+  "70010000144966": [
+    "0100FB8023E78000",
+    "打烊前的最後一桌 (The Last Table Before Closing)",
+    "2026-11-26",
+    "English, French, German, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000107173": [
     "01003320244DC000",
@@ -126907,6 +127269,12 @@
     "2026-12-03",
     "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000129763": [
+    "0100C87028E48000",
+    "SAKA-DOH THE REVERSAL ARTS",
+    "2026-12-03",
+    "English, Japanese"
+  ],
   "70010000130160": [
     "0100F57028F40000",
     "《星之侵略者 StarVaders》",
@@ -126922,6 +127290,12 @@
         ]
       ]
     }
+  ],
+  "70010000131055": [
+    "01002FC029204000",
+    "Roombattle 房間對戰",
+    "2026-12-03",
+    "English, French, German, Italian, Japanese, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000131140": [
     "040069F02923C000",
@@ -126965,6 +127339,12 @@
     "2026-12-03",
     "English, Japanese, Korean, Simplified Chinese, Traditional Chinese"
   ],
+  "70010000134794": [
+    "0100BC8029C1E000",
+    "Colorful Boi Together",
+    "2026-12-03",
+    "English"
+  ],
   "70010000136965": [
     "010052002750A000",
     "Winx Club - Moonlight Quest",
@@ -126976,6 +127356,22 @@
     "Santa's Christmas Story 3 North Pole Rescue",
     "2026-12-03",
     "English, French, German, Italian, Japanese, Korean, Russian, Spanish"
+  ],
+  "70010000137264": [
+    "010041702A29C000",
+    "時尚購物中心物語",
+    "2026-12-03",
+    "English, Japanese, Korean, Simplified Chinese, Traditional Chinese",
+    {
+      "dlcs": [
+        [
+          "70050000085390",
+          "暂无",
+          "時尚購物中心物語 – Nintendo Switch 2 Edition升級通行證",
+          "2026-12-03"
+        ]
+      ]
+    }
   ],
   "70010000137589": [
     "010039502A41E000",
@@ -127001,6 +127397,18 @@
     "2026-12-03",
     "English, Japanese, Korean, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000137710": [
+    "0400C8C02A45A000",
+    "猴子大作戰：雙人合作滑鼠動作遊戲",
+    "2026-12-03",
+    "English, Japanese, Korean, Simplified Chinese, Traditional Chinese"
+  ],
+  "70010000138188": [
+    "0100B7602A566000",
+    "Little Genius: Spot the Difference",
+    "2026-12-03",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Spanish, Traditional Chinese"
+  ],
   "70010000139320": [
     "01006D502A8DE000",
     "Pack it! Part-Time Master",
@@ -127012,6 +127420,18 @@
     "Backrooms Splatter",
     "2026-12-03",
     "English, French, German, Japanese, Korean, Spanish, Traditional Chinese"
+  ],
+  "70010000140212": [
+    "010058202A8E2000",
+    "箸的使用方法",
+    "2026-12-03",
+    "English, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000140930": [
+    "0100F5202AC6A000",
+    "A Night Duty",
+    "2026-12-03",
+    "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000141167": [
     "0100D5F02ACE6000",
@@ -127097,6 +127517,18 @@
     "2026-12-10",
     "English"
   ],
+  "70010000122679": [
+    "01008FA027C6C000",
+    "逃脫遊戲 R00M 13",
+    "2026-12-10",
+    "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000123197": [
+    "01006E8027DAE000",
+    "PICROSS S CLIMAX",
+    "2026-12-10",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
   "70010000130001": [
     "0400386028EE8000",
     "食魂徒：Blue Pieta(Shikhondo: Blue Pieta)",
@@ -127109,11 +127541,23 @@
     "2026-12-10",
     "English, French, German, Italian, Japanese, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000132366": [
+    "0400028029572000",
+    "PICROSS S CLIMAX",
+    "2026-12-10",
+    "English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
   "70010000133192": [
     "010024602920C000",
     "Cat Me If You Can",
     "2026-12-10",
     "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000135907": [
+    "0100B34029F1C000",
+    "奪寶小俠與紅寶石寶箱 (RAIDER KID AND THE RUBY CHEST)",
+    "2026-12-10",
+    "English, Portuguese, Spanish"
   ],
   "70010000135965": [
     "0100FB0029F3E000",
@@ -127127,11 +127571,53 @@
     "2026-12-10",
     "English, French, German, Italian, Japanese, Korean, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000137313": [
+    "0100792029C94000",
+    "Orpheus: To Hell and Back",
+    "2026-12-10",
+    "English, Japanese"
+  ],
+  "70010000137577": [
+    "0100E8602A41A000",
+    "性感聖誕：聖誕女郎 (Sexy Christmas: Santa Girls)",
+    "2026-12-10",
+    "English, Japanese, Korean, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000137583": [
+    "01006CD02A41C000",
+    "性感聖誕：聖誕型男 (Sexy Christmas: Santa Boys)",
+    "2026-12-10",
+    "English, Japanese, Korean, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000137613": [
+    "010014B02A426000",
+    "皇室祕戀：少女之間的王冠 (Royal Secret Love: A Crown Between Us Girls)",
+    "2026-12-10",
+    "English, Japanese, Korean, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000137619": [
+    "0100DB402A428000",
+    "皇室祕戀：少年之間的王冠 (Royal Secret Love: A Crown Between Us Boys)",
+    "2026-12-10",
+    "English, Japanese, Korean, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000137673": [
+    "010018302A444000",
+    "Seven Nights Ghost 2",
+    "2026-12-10",
+    "English, Japanese, Simplified Chinese, Traditional Chinese"
+  ],
   "70010000139531": [
     "0100AA302A964000",
     "Rever4 OCHIRO",
     "2026-12-10",
     "English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000137962": [
+    "040020602A4F6000",
+    "STARDUST: Wish of Witch (星塵軌跡：魔女之願)",
+    "2026-12-14",
+    "English, French, German, Japanese, Korean, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
   "70010000122181": [
     "0100441027B38000",
@@ -127157,17 +127643,47 @@
     "2026-12-17",
     "English, German"
   ],
+  "70010000115734": [
+    "01002AB026B50000",
+    "茉莉花之炯 天命華燭傳",
+    "2026-12-24",
+    "Traditional Chinese"
+  ],
+  "70010000131039": [
+    "0100BA20291FC000",
+    "大穢",
+    "2026-12-24",
+    "English, Japanese, Korean, Simplified Chinese, Traditional Chinese"
+  ],
+  "70010000140220": [
+    "01006A402AAC6000",
+    "Croc’s World Construction Kit 3",
+    "2026-12-24",
+    "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
   "70010000115597": [
     "01009E1026B1A000",
     "破門 (Breaking Gates)",
     "2027-01-07",
     "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000136347": [
+    "0100E3202A00C000",
+    "DASH n CRY: Bursting",
+    "2027-01-07",
+    "English, Portuguese"
+  ],
   "70010000138194": [
     "010010C0295DA000",
     "火星點擊器",
     "2027-01-07",
     "Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000142982": [
+    "0100F1402B158000",
+    "Kite Fight",
+    "2027-01-07",
+    "English"
   ],
   "70010000112022": [
     "040089402611E000",
@@ -127190,6 +127706,12 @@
         ]
       ]
     }
+  ],
+  "70010000136323": [
+    "0100DDD029FF0000",
+    "Spellwire",
+    "2027-01-14",
+    "English"
   ],
   "70010000143383": [
     "010098502B2C2000",
@@ -127293,10 +127815,22 @@
     "2027-02-25",
     "Dutch, English, French, German, Italian, Japanese, Korean, Simplified Chinese, Spanish, Traditional Chinese"
   ],
+  "70010000142616": [
+    "01004B702B090000",
+    "Dragon Dragon Fire Fire Deluxe 龍龍烈焰豪華版",
+    "2027-03-11",
+    "English, German, Japanese, Portuguese, Spanish"
+  ],
   "70010000099817": [
     "040055A024036000",
     "007 初露鋒芒 - 豪華版",
     "2027-03-18",
     "English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese"
+  ],
+  "70010000130412": [
+    "0400D7E029058000",
+    "FINAL FANTASY VII REVELATION",
+    "2027-04-08",
+    "Traditional Chinese, Korean, Simplified Chinese"
   ]
 }
